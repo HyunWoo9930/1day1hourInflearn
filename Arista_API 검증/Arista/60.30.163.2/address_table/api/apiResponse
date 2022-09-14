@@ -1,0 +1,1614 @@
+{
+  "admin_ip": "60.30.163.2",
+  "hostname": "BNDG-2F-TB-5G-MEC-PUB-Border-01",
+  "address_table": {
+    "address_table": [
+      {
+        "unicastTable": [
+          {
+            "vlanId": 3965,
+            "macAddress": "9a:5d:82:c5:1c:f5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "28:99:3a:ae:88:f9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "98:5d:82:c5:0b:59",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "98:5d:82:c5:1c:93",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "fc:bd:67:78:ba:01",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "fc:bd:67:d2:39:23",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3967,
+            "macAddress": "98:5d:82:c4:f8:97",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3967,
+            "macAddress": "98:5d:82:c5:1e:1b",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3967,
+            "macAddress": "fc:bd:67:1e:e8:c1",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:9b:db:73",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:9b:dc:9b",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:a7:53",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:ab:15",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:ac:d1",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:c1:57",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:c2:7f",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:c4:85",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "2a:99:3a:ae:c4:85",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:34:aa:e9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:34:c1:75",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:35:09:b9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:35:1c:cd",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:c5:1b:cf",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "d4:af:f7:88:49:75",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:48:18:6b",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:48:a4:e7",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:48:a5:31",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:78:99:d9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:78:b3:7f",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:d2:39:6d",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:d2:3b:bd",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "98:5d:82:c4:f8:97",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "98:5d:82:c5:1e:1b",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "98:5d:82:d7:5e:55",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:d4:a5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:e8:c1",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c4:e6:fb",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c4:f4:c3",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c5:12:3d",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c5:1d:b9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c5:33:8b",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "d4:af:f7:88:49:75",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:99:d9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:a1:e3",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b0:d1",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b2:bb",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b3:7f",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b8:79",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b9:9f",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "28:99:3a:ae:88:f9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:ae:b5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:d9:95",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:e6:fb",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:f4:c3",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:f8:97",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:0b:59",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:1c:93",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:1d:b9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:1e:1b",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:33:8b",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:33:ed",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:d7:5e:55",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "9a:5d:82:c5:1c:f5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "d4:af:f7:88:49:75",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:d4:a5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:e8:c1",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:a1:e3",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:b0:d1",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:b2:bb",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:b8:79",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:ba:01",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:e4:1d",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:d2:39:23",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "28:99:3a:9b:db:73",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "98:5d:82:34:aa:e9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "98:5d:82:c5:1d:b9",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "98:5d:82:c5:33:ed",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "9a:5d:82:c5:1c:f5",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "d4:af:f7:88:49:75",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:78:b0:d1",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:78:e4:1d",
+            "entryType": "dynamic",
+            "interface": "Vxlan1",
+            "moves": 0,
+            "type": "mac_address_table"
+          }
+        ]
+      },
+      {
+        "addresses": [
+          {
+            "vlanId": 3965,
+            "macAddress": "9a:5d:82:c5:1c:f5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.216",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "28:99:3a:ae:88:f9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "177.11.243.3",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "98:5d:82:c5:0b:59",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.242.253",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "98:5d:82:c5:1c:93",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.208",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "fc:bd:67:78:ba:01",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.242.252",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3966,
+            "macAddress": "fc:bd:67:d2:39:23",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "177.11.243.2",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3967,
+            "macAddress": "98:5d:82:c4:f8:97",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.100",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3967,
+            "macAddress": "98:5d:82:c5:1e:1b",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.75",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3967,
+            "macAddress": "fc:bd:67:1e:e8:c1",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.65",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:9b:db:73",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.220",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:9b:dc:9b",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.230",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:a7:53",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.68",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.52",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:ab:15",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.79",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:ac:d1",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.54",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:c1:57",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.58",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:c2:7f",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.70",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "28:99:3a:ae:c4:85",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.85",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "2a:99:3a:ae:c4:85",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.60",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:34:aa:e9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.222",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:34:c1:75",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.238",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:35:09:b9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.228",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:35:1c:cd",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.236",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "98:5d:82:c5:1b:cf",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.206",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "d4:af:f7:88:49:75",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.77",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.55",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:48:18:6b",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.56",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:48:a4:e7",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.83",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:48:a5:31",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.93",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:78:99:d9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.84",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:78:b3:7f",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.59",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:d2:39:6d",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.95",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3968,
+            "macAddress": "fc:bd:67:d2:3b:bd",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.81",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "98:5d:82:c4:f8:97",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.100",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "98:5d:82:c5:1e:1b",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.75",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "98:5d:82:d7:5e:55",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.242",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:d4:a5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.66",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.80",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.55",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3969,
+            "macAddress": "fc:bd:67:1e:e8:c1",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.65",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.52",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c4:e6:fb",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.69",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c4:f4:c3",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.67",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c5:12:3d",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.57",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c5:1d:b9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.51",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "98:5d:82:c5:33:8b",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.53",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "d4:af:f7:88:49:75",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.77",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.80",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.55",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:99:d9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.84",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:a1:e3",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.94",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b0:d1",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.76",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b2:bb",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.78",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b3:7f",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.59",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b8:79",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.92",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3994,
+            "macAddress": "fc:bd:67:78:b9:9f",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.82",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "28:99:3a:ae:88:f9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "177.11.243.3",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.52",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:ae:b5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.224",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:d9:95",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.226",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:e6:fb",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.69",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:f4:c3",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.67",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c4:f8:97",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.100",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:0b:59",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.242.253",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:1c:93",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.208",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:1d:b9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.51",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:1e:1b",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.75",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:33:8b",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.53",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:c5:33:ed",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.232",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "98:5d:82:d7:5e:55",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.242",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "9a:5d:82:c5:1c:f5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.216",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "d4:af:f7:88:49:75",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.77",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:d4:a5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.66",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.80",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.55",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:1e:e8:c1",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.65",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:a1:e3",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.94",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:b0:d1",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.76",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:b2:bb",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.78",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:b8:79",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.92",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:ba:01",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.242.252",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:78:e4:1d",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.234",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3995,
+            "macAddress": "fc:bd:67:d2:39:23",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "177.11.243.2",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "28:99:3a:9b:db:73",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.220",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "28:99:3a:ae:a8:c5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.52",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "98:5d:82:34:aa:e9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.222",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "98:5d:82:c5:1d:b9",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.51",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "98:5d:82:c5:33:ed",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.232",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "9a:5d:82:c5:1c:f5",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.216",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "d4:af:f7:88:49:75",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.77",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:1e:d9:cd",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.80",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:1e:e1:89",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.55",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:78:b0:d1",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.243.76",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          },
+          {
+            "vlanId": 3998,
+            "macAddress": "fc:bd:67:78:e4:1d",
+            "addrType": "evpn",
+            "interface": "Vx1",
+            "vtep": "172.1.245.234",
+            "moves": 0,
+            "type": "vxlan_address_table"
+          }
+        ]
+      }
+    ]
+  }
+}

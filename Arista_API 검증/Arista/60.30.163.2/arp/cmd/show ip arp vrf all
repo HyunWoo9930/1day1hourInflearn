@@ -1,0 +1,290 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vrfs": {
+                "SBI_VRF": {
+                    "dynamicEntries": 1,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "70c7.f2aa.6036",
+                            "address": "172.1.243.160",
+                            "interface": "Ethernet25/1.3",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 1,
+                    "staticEntries": 0
+                },
+                "5G_VRF": {
+                    "dynamicEntries": 2,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "70c7.f2aa.6036",
+                            "address": "172.1.245.176",
+                            "interface": "Ethernet25/1.1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "0488.5fae.3430",
+                            "address": "172.1.245.184",
+                            "interface": "Ethernet26/1.1",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 2,
+                    "staticEntries": 0
+                },
+                "MANAGEMENT": {
+                    "dynamicEntries": 31,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "985d.8235.0ae1",
+                            "address": "60.30.163.1",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c5.1bce",
+                            "address": "60.30.163.4",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c5.1c92",
+                            "address": "60.30.163.5",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d840",
+                            "address": "60.30.163.6",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82d7.658c",
+                            "address": "60.30.163.7",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c5.1cf4",
+                            "address": "60.30.163.10",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c5.218c",
+                            "address": "60.30.163.11",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "2899.3a9b.db72",
+                            "address": "60.30.163.12",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.6778.e41c",
+                            "address": "60.30.163.19",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.8235.1ccc",
+                            "address": "60.30.163.20",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d528",
+                            "address": "60.30.163.22",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.8234.c73d",
+                            "address": "60.30.163.30",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "7483.efff.e5fc",
+                            "address": "60.30.163.31",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c5.1db8",
+                            "address": "60.30.163.33",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.6778.b0d0",
+                            "address": "60.30.163.34",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.e188",
+                            "address": "60.30.163.41",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cc",
+                            "address": "60.30.163.42",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d4a4",
+                            "address": "60.30.163.62",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c5.1e1a",
+                            "address": "60.30.163.77",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c4.f896",
+                            "address": "60.30.163.78",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.82c5.0b58",
+                            "address": "60.30.163.86",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "dc8c.37ec.2676",
+                            "address": "60.30.163.90",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "70b3.176c.d954",
+                            "address": "60.30.163.91",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "70b3.176c.d59a",
+                            "address": "60.30.163.92",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "dc8c.3796.5684",
+                            "address": "60.30.163.93",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "00ee.ab6c.3d6e",
+                            "address": "60.30.163.94",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "00ee.ab6c.41dc",
+                            "address": "60.30.163.95",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "8cfd.18b6.4171",
+                            "address": "60.30.163.97",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "2c97.b19c.eddf",
+                            "address": "60.30.163.101",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "f813.0839.9dae",
+                            "address": "60.30.163.108",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "5254.006b.1bd0",
+                            "address": "60.30.163.112",
+                            "interface": "Management1",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 31,
+                    "staticEntries": 0
+                },
+                "GLOBAL_VRF": {
+                    "dynamicEntries": 2,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "70c7.f2aa.6036",
+                            "address": "172.1.245.178",
+                            "interface": "Ethernet25/1.2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "0488.5fae.3430",
+                            "address": "172.1.245.186",
+                            "interface": "Ethernet26/1.2",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 2,
+                    "staticEntries": 0
+                },
+                "default": {
+                    "dynamicEntries": 4,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "fcbd.671e.d841",
+                            "address": "172.1.245.1",
+                            "interface": "Ethernet1/1",
+                            "age": 7
+                        },
+                        {
+                            "hwAddress": "985d.82d7.658d",
+                            "address": "172.1.245.3",
+                            "interface": "Ethernet2/1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "7483.efff.e5fc",
+                            "address": "172.1.242.201",
+                            "interface": "Ethernet21/1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "7483.efff.e5f5",
+                            "address": "172.1.242.203",
+                            "interface": "Ethernet22/1",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 4,
+                    "staticEntries": 0
+                }
+            }
+        }
+    ]
+}

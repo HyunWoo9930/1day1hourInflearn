@@ -1,0 +1,751 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "interfaces": {
+                "Ethernet5/21/1": {
+                    "name": "Ethernet5/21/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.144"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/3/1": {
+                    "name": "Ethernet3/3/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.209"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/33/1": {
+                    "name": "Ethernet5/33/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 24,
+                            "address": "172.1.77.4"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet3/2/1": {
+                    "name": "Ethernet3/2/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.205"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/1/1": {
+                    "name": "Ethernet5/1/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.64"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/11/1": {
+                    "name": "Ethernet5/11/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.104"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet3/31/1": {
+                    "name": "Ethernet3/31/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.60"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/29/1": {
+                    "name": "Ethernet3/29/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.52"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/18/1": {
+                    "name": "Ethernet3/18/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.8"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/28/1": {
+                    "name": "Ethernet3/28/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.48"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/24/1": {
+                    "name": "Ethernet5/24/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.156"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/19/1": {
+                    "name": "Ethernet3/19/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.12"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/14/1": {
+                    "name": "Ethernet5/14/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.116"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/34/1": {
+                    "name": "Ethernet5/34/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 24,
+                            "address": "172.1.24.4"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "notPresent",
+                    "mtu": 1500
+                },
+                "Ethernet3/30/1": {
+                    "name": "Ethernet3/30/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.56"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/23/1": {
+                    "name": "Ethernet5/23/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.152"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/4/1": {
+                    "name": "Ethernet3/4/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.213"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/7/1": {
+                    "name": "Ethernet5/7/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.88"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet5/9/1": {
+                    "name": "Ethernet5/9/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.96"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet5/19/1": {
+                    "name": "Ethernet5/19/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.136"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/22/1": {
+                    "name": "Ethernet5/22/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.148"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/6/1": {
+                    "name": "Ethernet5/6/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.84"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet5/8/1": {
+                    "name": "Ethernet5/8/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.92"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet5/36/1": {
+                    "name": "Ethernet5/36/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 24,
+                            "address": "172.1.46.4"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 1500
+                },
+                "Management2/1": {
+                    "name": "Management2/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 0,
+                            "address": "0.0.0.0"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 1500
+                },
+                "Ethernet5/15/1": {
+                    "name": "Ethernet5/15/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.120"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Management2/2": {
+                    "name": "Management2/2",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 0,
+                            "address": "0.0.0.0"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 1500
+                },
+                "Ethernet3/16/1": {
+                    "name": "Ethernet3/16/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.0"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/5/1": {
+                    "name": "Ethernet5/5/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.80"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet5/18/1": {
+                    "name": "Ethernet5/18/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.132"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Management1/2": {
+                    "name": "Management1/2",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 0,
+                            "address": "0.0.0.0"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 1500
+                },
+                "Ethernet3/17/1": {
+                    "name": "Ethernet3/17/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.4"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/4/1": {
+                    "name": "Ethernet5/4/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.76"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Management1/1": {
+                    "name": "Management1/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 0,
+                            "address": "0.0.0.0"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 1500
+                },
+                "Ethernet5/12/1": {
+                    "name": "Ethernet5/12/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.108"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Loopback0": {
+                    "name": "Loopback0",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 32,
+                            "address": "172.1.243.47"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 65535
+                },
+                "Ethernet5/3/1": {
+                    "name": "Ethernet5/3/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.72"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/20/1": {
+                    "name": "Ethernet5/20/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.140"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/25/1": {
+                    "name": "Ethernet3/25/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.36"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/13/1": {
+                    "name": "Ethernet5/13/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.112"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/2/1": {
+                    "name": "Ethernet5/2/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.68"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/21/1": {
+                    "name": "Ethernet3/21/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.20"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Management0": {
+                    "name": "Management0",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 25,
+                            "address": "60.30.163.31"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 1500
+                },
+                "Ethernet5/28/1": {
+                    "name": "Ethernet5/28/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.243.114"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet3/24/1": {
+                    "name": "Ethernet3/24/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.32"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/10/1": {
+                    "name": "Ethernet5/10/1",
+                    "interfaceStatus": "disabled",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.100"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet3/20/1": {
+                    "name": "Ethernet3/20/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.16"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/27/1": {
+                    "name": "Ethernet5/27/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.243.112"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet3/27/1": {
+                    "name": "Ethernet3/27/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.44"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/1/1": {
+                    "name": "Ethernet3/1/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.201"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/23/1": {
+                    "name": "Ethernet3/23/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.28"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/26/1": {
+                    "name": "Ethernet5/26/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.164"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/16/1": {
+                    "name": "Ethernet5/16/1",
+                    "interfaceStatus": "notconnect",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.124"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "down",
+                    "mtu": 4470
+                },
+                "Ethernet3/22/1": {
+                    "name": "Ethernet3/22/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.24"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/17/1": {
+                    "name": "Ethernet5/17/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.128"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet5/25/1": {
+                    "name": "Ethernet5/25/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.160"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Ethernet3/26/1": {
+                    "name": "Ethernet3/26/1",
+                    "interfaceStatus": "connected",
+                    "interfaceAddress": {
+                        "ipAddr": {
+                            "maskLen": 31,
+                            "address": "172.1.242.40"
+                        }
+                    },
+                    "ipv4Routable240": false,
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                }
+            }
+        }
+    ]
+}

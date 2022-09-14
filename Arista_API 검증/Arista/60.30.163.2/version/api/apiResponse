@@ -1,0 +1,12 @@
+{
+    "admin_ip": "60.30.163.2",
+    "hostname": "BNDG-2F-TB-5G-MEC-PUB-Border-01",
+    "version": {
+        "modelName": "DCS-7050CX3-32S-F",
+        "version": "4.25.0F",
+        "extensions": {
+            "name": "Twamp-4.25.0F-i686.1.0.0.swix",
+            "status": "Installed"
+        }
+    }
+}

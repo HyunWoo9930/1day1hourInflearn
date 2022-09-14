@@ -1,0 +1,417 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vteps": {},
+            "interfaces": {
+                "Vxlan1": {
+                    "vteps": [
+                        "172.1.242.252",
+                        "172.1.242.253",
+                        "172.1.243.51",
+                        "172.1.243.52",
+                        "172.1.243.53",
+                        "172.1.243.54",
+                        "172.1.243.55",
+                        "172.1.243.56",
+                        "172.1.243.57",
+                        "172.1.243.58",
+                        "172.1.243.59",
+                        "172.1.243.60",
+                        "172.1.243.65",
+                        "172.1.243.66",
+                        "172.1.243.67",
+                        "172.1.243.68",
+                        "172.1.243.69",
+                        "172.1.243.70",
+                        "172.1.243.75",
+                        "172.1.243.76",
+                        "172.1.243.77",
+                        "172.1.243.78",
+                        "172.1.243.79",
+                        "172.1.243.80",
+                        "172.1.243.81",
+                        "172.1.243.82",
+                        "172.1.243.83",
+                        "172.1.243.84",
+                        "172.1.243.85",
+                        "172.1.243.92",
+                        "172.1.243.93",
+                        "172.1.243.94",
+                        "172.1.243.95",
+                        "172.1.243.100",
+                        "172.1.245.206",
+                        "172.1.245.208",
+                        "172.1.245.216",
+                        "172.1.245.220",
+                        "172.1.245.222",
+                        "172.1.245.224",
+                        "172.1.245.226",
+                        "172.1.245.228",
+                        "172.1.245.230",
+                        "172.1.245.232",
+                        "172.1.245.234",
+                        "172.1.245.236",
+                        "172.1.245.238",
+                        "172.1.245.242",
+                        "177.11.243.2",
+                        "177.11.243.3"
+                    ]
+                }
+            },
+            "vtepTunnelTypes": {
+                "172.1.245.234": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.236": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.230": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.232": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.216": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.238": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.228": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.60": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.66": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.67": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.65": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.242": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.69": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.80": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.81": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.82": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.83": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.84": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.85": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "177.11.243.2": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "177.11.243.3": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.242.253": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.242.252": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.208": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.222": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.220": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.226": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.224": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.245.206": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.79": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.78": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.75": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.77": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.76": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.70": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.57": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.56": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.55": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.54": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.53": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.52": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.51": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.59": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.58": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.93": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.92": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.95": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.94": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.100": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                },
+                "172.1.243.68": {
+                    "tunnelTypes": [
+                        {
+                            "tunnelType": "unicast"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

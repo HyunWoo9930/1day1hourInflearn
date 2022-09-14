@@ -1,0 +1,60 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "localInterface": "Vlan4090",
+            "systemId": "fe:bd:67:1e:d9:cd",
+            "domainId": "MLAG",
+            "peerLink": "Port-Channel2000",
+            "dualPrimaryDetectionState": "disabled",
+            "localIntfStatus": "up",
+            "peerLinkStatus": "up",
+            "peerAddress": "172.1.242.169",
+            "configSanity": "consistent",
+            "portsErrdisabled": false,
+            "dualPrimaryPortsErrdisabled": false,
+            "detail": {
+                "failoverCauseList": [
+                    "Unknown"
+                ],
+                "udpHeartbeatsSent": 2092585,
+                "lacpStandby": false,
+                "mlagState": "secondary",
+                "heartbeatInterval": 4000,
+                "effectiveHeartbeatInterval": 4000,
+                "heartbeatTimeout": 60000,
+                "stateChanges": 2,
+                "peerMonotonicClockOffset": 514105.51267502934,
+                "peerPortsErrdisabled": false,
+                "mlagHwReady": true,
+                "udpHeartbeatAlive": true,
+                "failoverInitiated": false,
+                "peerMlagState": "primary",
+                "secondaryFromFailover": true,
+                "primaryPriority": 32767,
+                "failover": false,
+                "enabled": true,
+                "peerMacRoutingSupported": true,
+                "peerPrimaryPriority": 32767,
+                "udpHeartbeatsReceived": 2092564,
+                "fastMacRedirectionEnabled": true,
+                "lastStateChangeTime": 336.156870975,
+                "peerMacAddress": "fc:bd:67:1e:d9:cd",
+                "mountChanges": 1,
+                "heartbeatTimeoutsSinceReboot": 0
+            },
+            "state": "active",
+            "reloadDelay": 300,
+            "reloadDelayNonMlag": 300,
+            "negStatus": "connected",
+            "mlagPorts": {
+                "Disabled": 0,
+                "Active-partial": 0,
+                "Inactive": 0,
+                "Configured": 0,
+                "Active-full": 0
+            }
+        }
+    ]
+}

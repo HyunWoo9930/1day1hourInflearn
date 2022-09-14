@@ -1,0 +1,24 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "agentsNotReady": [],
+            "slotId": 1,
+            "pcieModulesNotReady": [],
+            "lastRedundancyModeChangeTime": 1643091924.5063927,
+            "operationalProtocol": "sso",
+            "globalStageCompletionTimeout": 720.0,
+            "unitDesc": "Primary",
+            "myMode": "active",
+            "switchoverReady": true,
+            "configuredProtocol": "sso",
+            "pcieSsoReady": true,
+            "peerMode": "standby",
+            "lastRedundancyModeChangeReason": "Other supervisor stopped sending heartbeats",
+            "peerState": "inserted",
+            "globalStageCompletionTimeoutDefault": 720.0,
+            "communicationDesc": "Up"
+        }
+    ]
+}

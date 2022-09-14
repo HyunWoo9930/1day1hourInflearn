@@ -1,0 +1,24 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "memTotal": 8104272,
+            "uptime": 45519050.37,
+            "modelName": "DCS-7050CX3-32S-F",
+            "internalVersion": "4.25.0F-19426669.4250F",
+            "mfgName": "Arista",
+            "serialNumber": "JPE19331454",
+            "systemMacAddress": "fc:bd:67:1e:e9:45",
+            "bootupTimestamp": 1616994480.0,
+            "memFree": 5431492,
+            "version": "4.25.0F",
+            "configMacAddress": "00:00:00:00:00:00",
+            "isIntlVersion": false,
+            "internalBuildId": "6cadb69a-63ec-4cf7-80f8-59bed574117c",
+            "hardwareRevision": "11.01",
+            "hwMacAddress": "fc:bd:67:1e:e9:45",
+            "architecture": "i686"
+        }
+    ]
+}

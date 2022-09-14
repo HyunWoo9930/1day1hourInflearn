@@ -1,0 +1,4582 @@
+{
+    "admin_ip": "60.30.163.31",
+    "hostname": "BNGD-2F-TB-5G-SA-Spine-01",
+    "interfaces": {
+      "status": [
+        {
+          "name": "Ethernet5/32/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/21/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-NRF-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/3/1",
+          "description": "BNDG-2F-TB-5G-MEC-PRI-Border-1-100GE-ETH53/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/11/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/3/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-SMF-UDSF-SS-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/12/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/8/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/2/1",
+          "description": "BNDG-2F-TB-5G-MEC-PUB-Border-2-100GE-ETH21/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/1/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-SMF-UDSF-SS-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/1/1",
+          "description": "BNDG-2F-TB-5G-MEC-PUB-Border-1-100GE-ETH21/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/13/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/31/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-AMF-UDSF-SS-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/29/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-AMF-UDSF-SS-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/32/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/18/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-AMF-SS-LF-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/28/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-AMF-UDSF-SS-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/4/1",
+          "description": "BNDG-2F-TB-5G-MEC-PRI-Border-2-100GE-ETH53/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/33/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/9/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/19/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-AMF-SS-LF-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/14/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-ADC-LF-01-100GE-ETH27/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/5/1",
+          "description": "20220831",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/34/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "notPresent",
+          "bandwidth": 100000000000,
+          "interfaceType": "Not Present",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/30/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-AMF-UDSF-SS-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/23/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-NRF-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/34/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/15/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/14/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/35/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/36/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/33/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/6/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/35/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/8/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/15/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/36/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/7/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Management2/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 0,
+          "interfaceType": "10/100/1000",
+          "duplex": "duplexUnknown",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/7/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Management2/2",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 0,
+          "interfaceType": "10/100/1000",
+          "duplex": "duplexUnknown",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/16/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-AMF-SS-LF-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/5/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/20/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-NSSF-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/22/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-NRF-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Management1/2",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 0,
+          "interfaceType": "10/100/1000",
+          "duplex": "duplexUnknown",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/17/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-AMF-SS-LF-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/4/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-SMF-UDSF-SS-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/18/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-NSSF-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/12/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/24/1",
+          "description": "BNDG-5G-C-PUB-UPF01-LF-01-100GE-ETH27/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/26/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-UPF-SS-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/10/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/22/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-SMF-SS-LF-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/29/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/25/1",
+          "description": "BNDG-5G-C-PUB-UPF01-LF-02-100GE-ETH27/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Management1/1",
+          "description": "",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 1000000000,
+          "interfaceType": "10/100/1000",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/2/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-SMF-UDSF-SS-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/21/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-SMF-SS-LF-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/24/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-NRF-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Management0",
+          "description": "SDNEMS/NTP/LOG_MGMT",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 1000000000,
+          "interfaceType": "10/100/1000",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/28/1",
+          "description": "FW_LEAF-02_Eth49/1",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/13/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-NAT-ToR-03-100GE-ETH27/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/10/1",
+          "description": "",
+          "linkStatus": "disabled",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/19/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-NSSF-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/6/1",
+          "description": "20220831",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/20/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-SMF-SS-LF-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/27/1",
+          "description": "FW_LEAF_Eth49/1",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet3/27/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-UPF-SS-ToR-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/11/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/30/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet3/23/1",
+          "description": "BNGD-2F-TB-5G-SA-PRI-SMF-SS-LF-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/26/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-NAT-LF-02-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/16/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/31/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "bridged",
+            "vlanId": 1
+          }
+        },
+        {
+          "name": "Ethernet5/9/1",
+          "description": "",
+          "linkStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/25/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-NAT-LF-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        },
+        {
+          "name": "Ethernet5/17/1",
+          "description": "BNGD-2F-TB-5G-SA-PUB-NSSF-ToR-01-100GE-ETH49/1",
+          "linkStatus": "connected",
+          "lineProtocolStatus": "up",
+          "bandwidth": 100000000000,
+          "interfaceType": "100GBASE-SR4",
+          "duplex": "duplexFull",
+          "vlanInformation": {
+            "interfaceMode": "routed"
+          }
+        }
+      ],
+      "transceiver": [
+        {
+          "name": "Ethernet5/32/1",
+          "temperature": 31.15625,
+          "txBias": 7.494,
+          "voltage": 3.3107,
+          "txPower": 0.07235537545951942,
+          "rxPower": -22.75724130399211
+        },
+        {
+          "name": "Ethernet5/32/3",
+          "temperature": 31.15625,
+          "txBias": 7.494,
+          "voltage": 3.3107,
+          "txPower": -0.3739392707587328,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/32/2",
+          "temperature": 31.15625,
+          "txBias": 7.494,
+          "voltage": 3.3107,
+          "txPower": -0.11218156546359737,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/32/4",
+          "temperature": 31.15625,
+          "txBias": 7.494,
+          "voltage": 3.3107,
+          "txPower": -0.3343591590268957,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/33/1",
+          "temperature": 28.67578125,
+          "txBias": 7.494,
+          "voltage": 3.2784,
+          "txPower": -0.026136156026868917,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/33/2",
+          "temperature": 28.67578125,
+          "txBias": 7.494,
+          "voltage": 3.2784,
+          "txPower": 0.1615551195145457,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/33/3",
+          "temperature": 28.67578125,
+          "txBias": 7.494,
+          "voltage": 3.2784,
+          "txPower": 0.00867721531226806,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/33/4",
+          "temperature": 28.67578125,
+          "txBias": 7.494,
+          "voltage": 3.2784,
+          "txPower": 0.09493388287539872,
+          "rxPower": -25.086383061657273
+        },
+        {
+          "name": "Ethernet3/25/3",
+          "temperature": 34.66796875,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": 0.1565309853546566,
+          "rxPower": -0.8884239126002349
+        },
+        {
+          "name": "Ethernet3/29/4",
+          "temperature": 33.51953125,
+          "txBias": 7.494,
+          "voltage": 3.3061000000000003,
+          "txPower": 0.20899672862536534,
+          "rxPower": 0.022524799205385193
+        },
+        {
+          "name": "Ethernet3/29/3",
+          "temperature": 33.51953125,
+          "txBias": 7.494,
+          "voltage": 3.3061000000000003,
+          "txPower": 0.06637159068586129,
+          "rxPower": 0.3518950890844792
+        },
+        {
+          "name": "Ethernet3/29/2",
+          "temperature": 33.51953125,
+          "txBias": 7.494,
+          "voltage": 3.3061000000000003,
+          "txPower": 0.14646524684031803,
+          "rxPower": 0.008243766056054369
+        },
+        {
+          "name": "Ethernet3/29/1",
+          "temperature": 33.51953125,
+          "txBias": 7.494,
+          "voltage": 3.3061000000000003,
+          "txPower": 0.041063232796577864,
+          "rxPower": -0.08242460465652002
+        },
+        {
+          "name": "Ethernet3/32/3",
+          "temperature": 32.62890625,
+          "txBias": 7.494,
+          "voltage": 3.3055000000000003,
+          "txPower": -0.5389176956309392,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/32/2",
+          "temperature": 32.62890625,
+          "txBias": 7.494,
+          "voltage": 3.3055000000000003,
+          "txPower": -0.6238182060617667,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/28/4",
+          "temperature": 35,
+          "txBias": 7.494,
+          "voltage": 3.2778,
+          "txPower": -0.1028328005189536,
+          "rxPower": -0.6178058218725688
+        },
+        {
+          "name": "Ethernet3/28/2",
+          "temperature": 35,
+          "txBias": 7.494,
+          "voltage": 3.2778,
+          "txPower": -0.12780770091995208,
+          "rxPower": -0.027010075904861708
+        },
+        {
+          "name": "Ethernet5/29/3",
+          "temperature": 30.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2992000000000004,
+          "txPower": -0.22871099419317886,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/28/1",
+          "temperature": 35,
+          "txBias": 7.494,
+          "voltage": 3.2778,
+          "txPower": -0.12423105273012425,
+          "rxPower": -0.46626949273304064
+        },
+        {
+          "name": "Ethernet3/33/2",
+          "temperature": 31.5,
+          "txBias": 7.494,
+          "voltage": 3.2982,
+          "txPower": -0.18951941086827162,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/33/3",
+          "temperature": 31.5,
+          "txBias": 7.494,
+          "voltage": 3.2982,
+          "txPower": -0.1309396861927894,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/22/2",
+          "temperature": 35.96875,
+          "txBias": 7.494,
+          "voltage": 3.2968,
+          "txPower": -0.2668737954709819,
+          "rxPower": -0.7093887591523469
+        },
+        {
+          "name": "Ethernet3/33/1",
+          "temperature": 31.5,
+          "txBias": 7.494,
+          "voltage": 3.2982,
+          "txPower": -0.22779553364614813,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/33/4",
+          "temperature": 31.5,
+          "txBias": 7.494,
+          "voltage": 3.2982,
+          "txPower": -0.20360587777092576,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/7/1",
+          "temperature": 30.95703125,
+          "txBias": 7.494,
+          "voltage": 3.3071,
+          "txPower": 0.006509536295951079,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/34/3"
+        },
+        {
+          "name": "Ethernet5/34/2"
+        },
+        {
+          "name": "Ethernet5/34/1"
+        },
+        {
+          "name": "Ethernet5/14/2",
+          "temperature": 33.296875,
+          "txBias": 7.494,
+          "voltage": 3.2953,
+          "txPower": -0.03970171588923321,
+          "rxPower": -0.6058059667068285
+        },
+        {
+          "name": "Ethernet3/30/1",
+          "temperature": 35.296875,
+          "txBias": 7.494,
+          "voltage": 3.3012,
+          "txPower": -0.48711062722327725,
+          "rxPower": -0.33858267260967523
+        },
+        {
+          "name": "Ethernet5/14/4",
+          "temperature": 33.296875,
+          "txBias": 7.494,
+          "voltage": 3.2953,
+          "txPower": 0.4351946024575639,
+          "rxPower": 0.2349938154801201
+        },
+        {
+          "name": "Ethernet3/30/3",
+          "temperature": 35.296875,
+          "txBias": 7.494,
+          "voltage": 3.3012,
+          "txPower": -0.42775942156833224,
+          "rxPower": 0.27757204690553294
+        },
+        {
+          "name": "Ethernet3/30/2",
+          "temperature": 35.296875,
+          "txBias": 7.494,
+          "voltage": 3.3012,
+          "txPower": -0.4978123335813649,
+          "rxPower": 0.1657374626912329
+        },
+        {
+          "name": "Ethernet5/35/2",
+          "temperature": 27.84765625,
+          "txBias": 7.936,
+          "voltage": 3.2645,
+          "txPower": 1.3023724788522948,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/35/3",
+          "temperature": 27.84765625,
+          "txBias": 8,
+          "voltage": 3.2645,
+          "txPower": 1.3500536694388714,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/15/2",
+          "temperature": 30.046875,
+          "txBias": 7.494,
+          "voltage": 3.3046,
+          "txPower": -0.04277078004534829,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/15/3",
+          "temperature": 30.046875,
+          "txBias": 7.494,
+          "voltage": 3.3046,
+          "txPower": -0.0013030789173207324,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/15/4",
+          "temperature": 30.046875,
+          "txBias": 7.494,
+          "voltage": 3.3046,
+          "txPower": -0.0043451177401756524,
+          "rxPower": -25.086383061657273
+        },
+        {
+          "name": "Ethernet5/35/4",
+          "temperature": 27.84765625,
+          "txBias": 7.682,
+          "voltage": 3.2645,
+          "txPower": 1.211328899984089,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/36/4",
+          "temperature": 30.0234375,
+          "txBias": 8.318,
+          "voltage": 3.2507,
+          "txPower": 0.3873934810474893,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/11/1",
+          "temperature": 31.86328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": 0.07363654312278456,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/36/1",
+          "temperature": 30.0234375,
+          "txBias": 7.62,
+          "voltage": 3.2507,
+          "txPower": -0.13855535289479448,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/36/3",
+          "temperature": 30.0234375,
+          "txBias": 8.128,
+          "voltage": 3.2507,
+          "txPower": -0.16779785351896948,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/4/4",
+          "temperature": 37.2890625,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": 0.10342366139567716,
+          "rxPower": -0.3758330655424871
+        },
+        {
+          "name": "Ethernet5/21/1",
+          "temperature": 31.69921875,
+          "txBias": 7.494,
+          "voltage": 3.2872000000000003,
+          "txPower": -0.01915112063444724,
+          "rxPower": -1.1537453674376543
+        },
+        {
+          "name": "Ethernet5/21/3",
+          "temperature": 31.69921875,
+          "txBias": 7.494,
+          "voltage": 3.2872000000000003,
+          "txPower": 0.21189299069937917,
+          "rxPower": -0.8244197917456404
+        },
+        {
+          "name": "Ethernet5/21/2",
+          "temperature": 31.69921875,
+          "txBias": 7.494,
+          "voltage": 3.2872000000000003,
+          "txPower": 0.29302593558998424,
+          "rxPower": -0.9886874864462811
+        },
+        {
+          "name": "Ethernet5/21/4",
+          "temperature": 31.69921875,
+          "txBias": 7.494,
+          "voltage": 3.2872000000000003,
+          "txPower": 0.12668533896330558,
+          "rxPower": -1.305922506177982
+        },
+        {
+          "name": "Ethernet5/28/1",
+          "temperature": 32.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": 0.2052701227456275,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/16/4",
+          "temperature": 32.3828125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.5012229596312494,
+          "rxPower": -22.59637310505756
+        },
+        {
+          "name": "Ethernet5/20/1",
+          "temperature": 33.046875,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.16554142658659998,
+          "rxPower": 0.5173119605984944
+        },
+        {
+          "name": "Ethernet5/20/2",
+          "temperature": 33.046875,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.13273040668781633,
+          "rxPower": 0.445789548766129
+        },
+        {
+          "name": "Ethernet5/20/3",
+          "temperature": 33.046875,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.3170388495374432,
+          "rxPower": 0.6662405098342639
+        },
+        {
+          "name": "Ethernet5/20/4",
+          "temperature": 33.046875,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.2654885597506542,
+          "rxPower": 0.4805317311560877
+        },
+        {
+          "name": "Ethernet3/15/2",
+          "temperature": 32.48828125,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": 0.26574118150334414,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/28/3",
+          "temperature": 32.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": 0.06209240537657479,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/15/3",
+          "temperature": 32.48828125,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": 0.2469086235543081,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/29/1",
+          "temperature": 30.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2992000000000004,
+          "txPower": -0.3273290844021446,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/25/2",
+          "temperature": 34.66796875,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": 0.37546012085826774,
+          "rxPower": -1.056285461437625
+        },
+        {
+          "name": "Ethernet3/25/1",
+          "temperature": 34.66796875,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": 0.05823753029027401,
+          "rxPower": -1.4230574221345016
+        },
+        {
+          "name": "Ethernet5/29/2",
+          "temperature": 30.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2992000000000004,
+          "txPower": -0.5222329153526175,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/29/4",
+          "temperature": 30.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2992000000000004,
+          "txPower": -0.14483712147284677,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/25/4",
+          "temperature": 34.66796875,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": 0.18617292519441264,
+          "rxPower": -1.072933621943342
+        },
+        {
+          "name": "Ethernet3/24/2",
+          "temperature": 34.83203125,
+          "txBias": 7.494,
+          "voltage": 3.3011000000000004,
+          "txPower": 0.022524799205385193,
+          "rxPower": -2.0266319922465073
+        },
+        {
+          "name": "Ethernet3/24/3",
+          "temperature": 34.83203125,
+          "txBias": 7.494,
+          "voltage": 3.3011000000000004,
+          "txPower": -0.0060843828090924035,
+          "rxPower": -1.651979459513008
+        },
+        {
+          "name": "Ethernet5/28/2",
+          "temperature": 32.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": 0.1540167370294938,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/24/1",
+          "temperature": 34.83203125,
+          "txBias": 7.494,
+          "voltage": 3.3011000000000004,
+          "txPower": 0.04922949296525303,
+          "rxPower": -1.251124891538879
+        },
+        {
+          "name": "Ethernet5/28/4",
+          "temperature": 32.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": 0.012143252861790188,
+          "rxPower": -28.239087409443187
+        },
+        {
+          "name": "Ethernet3/24/4",
+          "temperature": 34.83203125,
+          "txBias": 7.494,
+          "voltage": 3.3011000000000004,
+          "txPower": -0.23237476732539264,
+          "rxPower": -0.9474395125154871
+        },
+        {
+          "name": "Ethernet5/27/3",
+          "temperature": 29.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3014,
+          "txPower": -0.5700040663395924,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/27/4",
+          "temperature": 32.51171875,
+          "txBias": 7.494,
+          "voltage": 3.2978,
+          "txPower": -0.16554142658659998,
+          "rxPower": -0.7134815334630531
+        },
+        {
+          "name": "Ethernet5/27/1",
+          "temperature": 29.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3014,
+          "txPower": -0.5814087347462689,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/30/4",
+          "temperature": 32.09375,
+          "txBias": 7.494,
+          "voltage": 3.3118000000000003,
+          "txPower": -0.4114954832032147,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/27/1",
+          "temperature": 32.51171875,
+          "txBias": 7.494,
+          "voltage": 3.2978,
+          "txPower": -0.15157768594724175,
+          "rxPower": -0.42967683653061783
+        },
+        {
+          "name": "Ethernet5/30/2",
+          "temperature": 32.09375,
+          "txBias": 7.494,
+          "voltage": 3.3118000000000003,
+          "txPower": -0.4344740808260106,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/27/3",
+          "temperature": 32.51171875,
+          "txBias": 7.494,
+          "voltage": 3.2978,
+          "txPower": -0.09172949432521094,
+          "rxPower": -0.340461108979369
+        },
+        {
+          "name": "Ethernet3/27/2",
+          "temperature": 32.51171875,
+          "txBias": 7.494,
+          "voltage": 3.2978,
+          "txPower": -0.1827197463838388,
+          "rxPower": -0.3203103712130755
+        },
+        {
+          "name": "Ethernet5/26/2",
+          "temperature": 32.14453125,
+          "txBias": 7.494,
+          "voltage": 3.306,
+          "txPower": -0.38721320914957147,
+          "rxPower": -0.41054067506063774
+        },
+        {
+          "name": "Ethernet5/26/3",
+          "temperature": 32.14453125,
+          "txBias": 7.494,
+          "voltage": 3.306,
+          "txPower": -0.06651960076739982,
+          "rxPower": -0.3545753392086297
+        },
+        {
+          "name": "Ethernet5/31/4",
+          "temperature": 28.98828125,
+          "txBias": 7.494,
+          "voltage": 3.3069,
+          "txPower": -0.20542681902151827,
+          "rxPower": -23.187587626244124
+        },
+        {
+          "name": "Ethernet5/26/1",
+          "temperature": 32.14453125,
+          "txBias": 7.494,
+          "voltage": 3.306,
+          "txPower": -0.3791491948264003,
+          "rxPower": -0.41054067506063774
+        },
+        {
+          "name": "Ethernet5/31/2",
+          "temperature": 28.98828125,
+          "txBias": 7.494,
+          "voltage": 3.3069,
+          "txPower": -0.14079779876432497,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/31/3",
+          "temperature": 28.98828125,
+          "txBias": 7.494,
+          "voltage": 3.3069,
+          "txPower": -0.23787622882622728,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/26/4",
+          "temperature": 32.14453125,
+          "txBias": 7.494,
+          "voltage": 3.306,
+          "txPower": -0.027447101798969697,
+          "rxPower": -0.46626949273304064
+        },
+        {
+          "name": "Ethernet5/31/1",
+          "temperature": 28.98828125,
+          "txBias": 7.494,
+          "voltage": 3.3069,
+          "txPower": -0.18589159834111513,
+          "rxPower": -29.20818753952375
+        },
+        {
+          "name": "Ethernet5/25/4",
+          "temperature": 30.7265625,
+          "txBias": 7.494,
+          "voltage": 3.2933000000000003,
+          "txPower": 0.08429826797229723,
+          "rxPower": 0.24362504353282333
+        },
+        {
+          "name": "Ethernet5/25/1",
+          "temperature": 30.7265625,
+          "txBias": 7.494,
+          "voltage": 3.2933000000000003,
+          "txPower": -0.03532109738282685,
+          "rxPower": 0.10723865391772947
+        },
+        {
+          "name": "Ethernet5/25/3",
+          "temperature": 30.7265625,
+          "txBias": 7.494,
+          "voltage": 3.2933000000000003,
+          "txPower": -0.893222452572946,
+          "rxPower": 0.1540167370294938
+        },
+        {
+          "name": "Ethernet5/25/2",
+          "temperature": 30.7265625,
+          "txBias": 7.494,
+          "voltage": 3.2933000000000003,
+          "txPower": 0.07662446537275969,
+          "rxPower": 0.16615547557177024
+        },
+        {
+          "name": "Ethernet3/3/2",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": -0.0017375254558729125,
+          "rxPower": 0.6770304404006566
+        },
+        {
+          "name": "Ethernet3/3/3",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": -0.8107890990866409,
+          "rxPower": 0.931764496962483
+        },
+        {
+          "name": "Ethernet3/3/1",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": -0.24660115394542004,
+          "rxPower": 0.6643774645399212
+        },
+        {
+          "name": "Ethernet3/3/4",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": 0.15946243657566228,
+          "rxPower": 0.589571787773103
+        },
+        {
+          "name": "Ethernet3/2/3",
+          "temperature": 35.90625,
+          "txBias": 7.494,
+          "voltage": 3.2746,
+          "txPower": 0.1832594540292085,
+          "rxPower": -0.22184973916813178
+        },
+        {
+          "name": "Ethernet3/2/2",
+          "temperature": 35.90625,
+          "txBias": 7.494,
+          "voltage": 3.2746,
+          "txPower": -0.27658283674252004,
+          "rxPower": -0.06079041198713142
+        },
+        {
+          "name": "Ethernet3/2/1",
+          "temperature": 35.90625,
+          "txBias": 7.494,
+          "voltage": 3.2746,
+          "txPower": -0.023078820582735915,
+          "rxPower": -0.46626949273304064
+        },
+        {
+          "name": "Ethernet5/11/1",
+          "temperature": 30.5,
+          "txBias": 7.494,
+          "voltage": 3.2964,
+          "txPower": -0.5002482217034654,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/2/4",
+          "temperature": 35.90625,
+          "txBias": 7.494,
+          "voltage": 3.2746,
+          "txPower": -0.465786003189649,
+          "rxPower": -0.24108863598207364
+        },
+        {
+          "name": "Ethernet3/20/1",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.2991,
+          "txPower": -0.2081596632558167,
+          "rxPower": -0.8249449044745347
+        },
+        {
+          "name": "Ethernet5/30/1",
+          "temperature": 32.09375,
+          "txBias": 7.494,
+          "voltage": 3.3118000000000003,
+          "txPower": -0.35693217696063684,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/27/4",
+          "temperature": 29.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3014,
+          "txPower": -0.7376047895413791,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/32/1",
+          "temperature": 32.62890625,
+          "txBias": 7.494,
+          "voltage": 3.3055000000000003,
+          "txPower": 0.02900068611387141,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/24/4",
+          "temperature": 32.4296875,
+          "txBias": 7.494,
+          "voltage": 3.3080000000000003,
+          "txPower": -0.08242460465652002,
+          "rxPower": -0.863450649133803
+        },
+        {
+          "name": "Ethernet3/18/4",
+          "temperature": 35.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2893000000000003,
+          "txPower": 0.17742664161498567,
+          "rxPower": -0.007389288868996147
+        },
+        {
+          "name": "Ethernet5/24/1",
+          "temperature": 32.4296875,
+          "txBias": 7.494,
+          "voltage": 3.3080000000000003,
+          "txPower": -0.2017856996977514,
+          "rxPower": -0.40338629726504394
+        },
+        {
+          "name": "Ethernet5/24/2",
+          "temperature": 32.4296875,
+          "txBias": 7.494,
+          "voltage": 3.3080000000000003,
+          "txPower": 0.189500215009744,
+          "rxPower": -0.453716224927291
+        },
+        {
+          "name": "Ethernet5/24/3",
+          "temperature": 32.4296875,
+          "txBias": 7.494,
+          "voltage": 3.3080000000000003,
+          "txPower": -0.015662811355312556,
+          "rxPower": -0.6874559358358638
+        },
+        {
+          "name": "Ethernet3/5/1",
+          "temperature": 34.4375,
+          "txBias": 7.494,
+          "voltage": 3.2886,
+          "txPower": -0.6681652082538605,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/5/2",
+          "temperature": 34.4375,
+          "txBias": 7.494,
+          "voltage": 3.2886,
+          "txPower": -0.4287180232318697,
+          "rxPower": -22.365720064370635
+        },
+        {
+          "name": "Ethernet3/5/3",
+          "temperature": 34.4375,
+          "txBias": 7.494,
+          "voltage": 3.2886,
+          "txPower": -0.5660442349104535,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/23/3",
+          "temperature": 31.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2852,
+          "txPower": -0.3203103712130755,
+          "rxPower": 0.1636467945629434
+        },
+        {
+          "name": "Ethernet5/23/2",
+          "temperature": 31.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2852,
+          "txPower": -0.3967194946985657,
+          "rxPower": 0.1080859751220622
+        },
+        {
+          "name": "Ethernet5/23/1",
+          "temperature": 31.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2852,
+          "txPower": -0.6844043290919508,
+          "rxPower": -0.18906576854070067
+        },
+        {
+          "name": "Ethernet3/28/3",
+          "temperature": 35,
+          "txBias": 7.494,
+          "voltage": 3.2778,
+          "txPower": -0.021332737608553032,
+          "rxPower": -0.18634490921455438
+        },
+        {
+          "name": "Ethernet3/4/1",
+          "temperature": 37.2890625,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": 0.21520064114032422,
+          "rxPower": -0.43639446326677955
+        },
+        {
+          "name": "Ethernet5/22/4",
+          "temperature": 33.9453125,
+          "txBias": 7.494,
+          "voltage": 3.2997,
+          "txPower": 0.024684501283324778,
+          "rxPower": 1.051012445496422
+        },
+        {
+          "name": "Ethernet3/4/2",
+          "temperature": 37.2890625,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": -0.2022406727031445,
+          "rxPower": -0.3367050483612175
+        },
+        {
+          "name": "Ethernet5/22/2",
+          "temperature": 33.9453125,
+          "txBias": 7.494,
+          "voltage": 3.2997,
+          "txPower": -0.10861775784210792,
+          "rxPower": 1.0311925354571372
+        },
+        {
+          "name": "Ethernet5/22/3",
+          "temperature": 33.9453125,
+          "txBias": 7.494,
+          "voltage": 3.2997,
+          "txPower": -0.1358659453453157,
+          "rxPower": 0.7247048230389268
+        },
+        {
+          "name": "Ethernet5/22/1",
+          "temperature": 33.9453125,
+          "txBias": 7.494,
+          "voltage": 3.2997,
+          "txPower": -0.21363051615525563,
+          "rxPower": 0.6367105393071739
+        },
+        {
+          "name": "Ethernet3/7/4",
+          "temperature": 33.56640625,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": -0.40767750949004267,
+          "rxPower": -23.767507096020992
+        },
+        {
+          "name": "Ethernet3/32/4",
+          "temperature": 32.62890625,
+          "txBias": 7.494,
+          "voltage": 3.3055000000000003,
+          "txPower": -0.4672366333269551,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/7/2",
+          "temperature": 33.56640625,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": -0.2844584655393909,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/7/3",
+          "temperature": 33.56640625,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": -0.10995384301463318,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/7/1",
+          "temperature": 33.56640625,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": -0.5320397272853938,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/14/3",
+          "temperature": 34.27734375,
+          "txBias": 7.494,
+          "voltage": 3.2920000000000003,
+          "txPower": -0.0030411258916061,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/20/2",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.2991,
+          "txPower": 0.0676545245199307,
+          "rxPower": -0.8698131625203978
+        },
+        {
+          "name": "Ethernet5/23/4",
+          "temperature": 31.2421875,
+          "txBias": 7.494,
+          "voltage": 3.2852,
+          "txPower": -0.5325306496641531,
+          "rxPower": 0.19199401055288234
+        },
+        {
+          "name": "Ethernet5/27/2",
+          "temperature": 29.4453125,
+          "txBias": 7.494,
+          "voltage": 3.3014,
+          "txPower": -0.23787622882622728,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/18/2",
+          "temperature": 33.08984375,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.46192002334692717,
+          "rxPower": 0.6807448990764797
+        },
+        {
+          "name": "Ethernet3/19/3",
+          "temperature": 33.0546875,
+          "txBias": 7.494,
+          "voltage": 3.2813000000000003,
+          "txPower": -0.38721320914957147,
+          "rxPower": -0.22916879684147062
+        },
+        {
+          "name": "Ethernet3/26/4",
+          "temperature": 35.703125,
+          "txBias": 7.494,
+          "voltage": 3.307,
+          "txPower": -0.32264868216120135,
+          "rxPower": -0.41627267521392497
+        },
+        {
+          "name": "Ethernet3/6/4",
+          "temperature": 34.37109375,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": -0.2177381832547418,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/6/3",
+          "temperature": 34.37109375,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": -1.0111034407341357,
+          "rxPower": -24.685210829577443
+        },
+        {
+          "name": "Ethernet3/6/2",
+          "temperature": 34.37109375,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": 0.019499410842680476,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/6/1",
+          "temperature": 34.37109375,
+          "txBias": 7.494,
+          "voltage": 3.2921,
+          "txPower": -0.04891542255259651,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/12/2",
+          "temperature": 31.65625,
+          "txBias": 7.494,
+          "voltage": 3.3094,
+          "txPower": -0.47401265470227116,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/1/4",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2855000000000003,
+          "txPower": -0.32967117841297977,
+          "rxPower": -0.4455278942230443
+        },
+        {
+          "name": "Ethernet3/9/3",
+          "temperature": 33.03125,
+          "txBias": 7.494,
+          "voltage": 3.3041,
+          "txPower": -0.054628957015022905,
+          "rxPower": -23.872161432802642
+        },
+        {
+          "name": "Ethernet3/1/1",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2855000000000003,
+          "txPower": -0.3616496929785207,
+          "rxPower": -0.22871099419317886
+        },
+        {
+          "name": "Ethernet3/1/2",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2855000000000003,
+          "txPower": -0.6920373701670002,
+          "rxPower": -0.1990568621470601
+        },
+        {
+          "name": "Ethernet3/1/3",
+          "temperature": 34.9140625,
+          "txBias": 7.494,
+          "voltage": 3.2855000000000003,
+          "txPower": -0.5056119896349571,
+          "rxPower": -0.17909760704207045
+        },
+        {
+          "name": "Ethernet5/14/1",
+          "temperature": 33.296875,
+          "txBias": 7.494,
+          "voltage": 3.2953,
+          "txPower": 0.17742664161498567,
+          "rxPower": 0.7867427336046617
+        },
+        {
+          "name": "Ethernet3/30/4",
+          "temperature": 35.296875,
+          "txBias": 7.494,
+          "voltage": 3.3012,
+          "txPower": -0.5998184499233687,
+          "rxPower": 0.18658897585517664
+        },
+        {
+          "name": "Ethernet5/14/3",
+          "temperature": 33.296875,
+          "txBias": 7.494,
+          "voltage": 3.2953,
+          "txPower": 0.31771907514001896,
+          "rxPower": 0.42536136722143425
+        },
+        {
+          "name": "Ethernet3/26/1",
+          "temperature": 35.703125,
+          "txBias": 7.494,
+          "voltage": 3.307,
+          "txPower": -0.2631808149601653,
+          "rxPower": -0.5888627296289819
+        },
+        {
+          "name": "Ethernet5/12/4",
+          "temperature": 31.65625,
+          "txBias": 7.494,
+          "voltage": 3.3094,
+          "txPower": -0.4503426894157947,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/34/4"
+        },
+        {
+          "name": "Ethernet3/18/3",
+          "temperature": 35.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2893000000000003,
+          "txPower": -0.11218156546359737,
+          "rxPower": -0.3170388495374432
+        },
+        {
+          "name": "Ethernet3/18/2",
+          "temperature": 35.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2893000000000003,
+          "txPower": -0.1028328005189536,
+          "rxPower": -0.11976438071340212
+        },
+        {
+          "name": "Ethernet3/18/1",
+          "temperature": 35.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2893000000000003,
+          "txPower": 0.04665233247877154,
+          "rxPower": -0.01784267629041736
+        },
+        {
+          "name": "Ethernet3/9/4",
+          "temperature": 33.03125,
+          "txBias": 7.494,
+          "voltage": 3.3041,
+          "txPower": 0.008243766056054369,
+          "rxPower": -22.676062401770317
+        },
+        {
+          "name": "Ethernet5/19/4",
+          "temperature": 31.9140625,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.6183065360967959,
+          "rxPower": 0.09833178608562676
+        },
+        {
+          "name": "Ethernet3/19/4",
+          "temperature": 33.0546875,
+          "txBias": 7.494,
+          "voltage": 3.2813000000000003,
+          "txPower": 0.2751269244881094,
+          "rxPower": -0.41770685811617625
+        },
+        {
+          "name": "Ethernet5/13/1",
+          "temperature": 31.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": -0.7453319930846227,
+          "rxPower": 0.28489916521889924
+        },
+        {
+          "name": "Ethernet3/19/2",
+          "temperature": 33.0546875,
+          "txBias": 7.494,
+          "voltage": 3.2813000000000003,
+          "txPower": 0.354297381845484,
+          "rxPower": -0.25488307262671483
+        },
+        {
+          "name": "Ethernet3/9/1",
+          "temperature": 33.03125,
+          "txBias": 7.494,
+          "voltage": 3.3041,
+          "txPower": 0.18991594705611092,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/9/2",
+          "temperature": 33.03125,
+          "txBias": 7.494,
+          "voltage": 3.3041,
+          "txPower": -0.34140063192928594,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/15/1",
+          "temperature": 30.046875,
+          "txBias": 7.494,
+          "voltage": 3.3046,
+          "txPower": -0.18815862601645605,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/11/3",
+          "temperature": 30.5,
+          "txBias": 7.494,
+          "voltage": 3.2964,
+          "txPower": -0.09439170005979847,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/8/4",
+          "temperature": 35.37109375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": 0.14562538127610125,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/8/1",
+          "temperature": 35.37109375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": 0.2779794335029919,
+          "rxPower": -26.197887582883936
+        },
+        {
+          "name": "Ethernet3/8/3",
+          "temperature": 35.37109375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": 0.01733712809000565,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/8/2",
+          "temperature": 35.37109375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": 0.11316643366872015,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/9/2",
+          "temperature": 30.28515625,
+          "txBias": 7.494,
+          "voltage": 3.3084000000000002,
+          "txPower": -1.0718217569042388,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/9/3",
+          "temperature": 30.28515625,
+          "txBias": 7.494,
+          "voltage": 3.3084000000000002,
+          "txPower": -0.8212704480115178,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/9/1",
+          "temperature": 30.28515625,
+          "txBias": 7.494,
+          "voltage": 3.3084000000000002,
+          "txPower": -1.3159069668503989,
+          "rxPower": -23.187587626244124
+        },
+        {
+          "name": "Ethernet5/19/1",
+          "temperature": 31.9140625,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.45612749855484935,
+          "rxPower": 0.11528153857539536
+        },
+        {
+          "name": "Ethernet5/19/2",
+          "temperature": 31.9140625,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.5300765925162736,
+          "rxPower": 0.0017368305846510168
+        },
+        {
+          "name": "Ethernet5/19/3",
+          "temperature": 31.9140625,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.6033101647767367,
+          "rxPower": 0.11062694729734446
+        },
+        {
+          "name": "Ethernet5/8/3",
+          "temperature": 33.5546875,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": 0.4202392724886721,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/8/2",
+          "temperature": 33.5546875,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": 0.025116312849085887,
+          "rxPower": -25.68636235841013
+        },
+        {
+          "name": "Ethernet5/8/1",
+          "temperature": 33.5546875,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": 0.1857568346725138,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/8/4",
+          "temperature": 33.5546875,
+          "txBias": 7.494,
+          "voltage": 3.2963,
+          "txPower": 0.19033163930998853,
+          "rxPower": -23.46787486224656
+        },
+        {
+          "name": "Ethernet3/16/4",
+          "temperature": 35.1484375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": -0.5650548409389735,
+          "rxPower": -0.8223199755224364
+        },
+        {
+          "name": "Ethernet5/5/4",
+          "temperature": 31.2890625,
+          "txBias": 7.494,
+          "voltage": 3.302,
+          "txPower": -0.15157768594724175,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/12/2",
+          "temperature": 33.65625,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.5369514500652528,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/5/2",
+          "temperature": 31.2890625,
+          "txBias": 7.494,
+          "voltage": 3.302,
+          "txPower": -0.04891542255259651,
+          "rxPower": -27.447274948966935
+        },
+        {
+          "name": "Ethernet5/9/4",
+          "temperature": 30.28515625,
+          "txBias": 7.494,
+          "voltage": 3.3084000000000002,
+          "txPower": -0.6228155638273591,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/16/3",
+          "temperature": 35.1484375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": 0.11147360775797566,
+          "rxPower": -0.01784267629041736
+        },
+        {
+          "name": "Ethernet5/5/1",
+          "temperature": 31.2890625,
+          "txBias": 7.494,
+          "voltage": 3.302,
+          "txPower": -0.21682503253249052,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/17/4",
+          "temperature": 33.125,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": -0.2232211232600605,
+          "rxPower": 0.5315530296187951
+        },
+        {
+          "name": "Ethernet5/4/4",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.3021000000000003,
+          "txPower": 0.05823753029027401,
+          "rxPower": -0.3658998431977132
+        },
+        {
+          "name": "Ethernet5/4/3",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.3021000000000003,
+          "txPower": -0.05726851026829394,
+          "rxPower": -0.4841965509660824
+        },
+        {
+          "name": "Ethernet5/4/2",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.3021000000000003,
+          "txPower": -0.1578783323856605,
+          "rxPower": -0.7160414774328636
+        },
+        {
+          "name": "Ethernet5/4/1",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.3021000000000003,
+          "txPower": -0.5443294655761157,
+          "rxPower": -0.8783110394037337
+        },
+        {
+          "name": "Ethernet3/17/3",
+          "temperature": 33.125,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": -0.19678413991243815,
+          "rxPower": 0.27186461836735987
+        },
+        {
+          "name": "Ethernet5/3/4",
+          "temperature": 31.953125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.47401265470227116,
+          "rxPower": -0.7727454200674018
+        },
+        {
+          "name": "Ethernet3/10/4",
+          "temperature": 34.91796875,
+          "txBias": 7.494,
+          "voltage": 3.2849000000000004,
+          "txPower": -0.08065450281052122,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/10/3",
+          "temperature": 34.91796875,
+          "txBias": 7.494,
+          "voltage": 3.2849000000000004,
+          "txPower": -0.10594681998484035,
+          "rxPower": -28.53871964321762
+        },
+        {
+          "name": "Ethernet3/10/2",
+          "temperature": 34.91796875,
+          "txBias": 7.494,
+          "voltage": 3.2849000000000004,
+          "txPower": -0.08463824699968825,
+          "rxPower": -24.685210829577443
+        },
+        {
+          "name": "Ethernet3/10/1",
+          "temperature": 34.91796875,
+          "txBias": 7.494,
+          "voltage": 3.2849000000000004,
+          "txPower": -0.09128595198514233,
+          "rxPower": -25.528419686577806
+        },
+        {
+          "name": "Ethernet5/3/3",
+          "temperature": 31.953125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.307239045110677,
+          "rxPower": -0.6454311928839047
+        },
+        {
+          "name": "Ethernet5/2/4",
+          "temperature": 34.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2937000000000003,
+          "txPower": 0.0030389978481260016,
+          "rxPower": 0.321753769613629
+        },
+        {
+          "name": "Ethernet3/11/4",
+          "temperature": 31.86328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": -0.4856533446798714,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/2/1",
+          "temperature": 34.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2937000000000003,
+          "txPower": 0.048800072406343986,
+          "rxPower": -0.14663358264387227
+        },
+        {
+          "name": "Ethernet3/11/3",
+          "temperature": 31.86328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": -0.16058141016111804,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/2/3",
+          "temperature": 34.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2937000000000003,
+          "txPower": 0.0034729668536357394,
+          "rxPower": 0.5246307748332839
+        },
+        {
+          "name": "Ethernet5/2/2",
+          "temperature": 34.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2937000000000003,
+          "txPower": 0.3233665984573584,
+          "rxPower": 0.45714058940867375
+        },
+        {
+          "name": "Ethernet5/35/1",
+          "temperature": 27.84765625,
+          "txBias": 7.746,
+          "voltage": 3.2645,
+          "txPower": 1.16009679424738,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/15/1",
+          "temperature": 32.48828125,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": 0.12415374762433018,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/13/4",
+          "temperature": 32.1328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": -0.5551732784983123,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/36/2",
+          "temperature": 30.0234375,
+          "txBias": 7.8740000000000006,
+          "voltage": 3.2507,
+          "txPower": 0.018634626925241093,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/5/4",
+          "temperature": 34.4375,
+          "txBias": 7.494,
+          "voltage": 3.2886,
+          "txPower": -0.5848856736559682,
+          "rxPower": -23.372421683184257
+        },
+        {
+          "name": "Ethernet5/17/1",
+          "temperature": 32.05078125,
+          "txBias": 7.494,
+          "voltage": 3.2948,
+          "txPower": -0.49294465226138584,
+          "rxPower": -0.30025269878285243
+        },
+        {
+          "name": "Ethernet5/1/2",
+          "temperature": 32.55859375,
+          "txBias": 7.494,
+          "voltage": 3.2922000000000002,
+          "txPower": -0.07004901568658539,
+          "rxPower": -1.488640049884257
+        },
+        {
+          "name": "Ethernet5/1/3",
+          "temperature": 32.55859375,
+          "txBias": 7.494,
+          "voltage": 3.2922000000000002,
+          "txPower": -0.12065734767841363,
+          "rxPower": -0.8783110394037337
+        },
+        {
+          "name": "Ethernet3/12/3",
+          "temperature": 33.65625,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.4287180232318697,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/1/1",
+          "temperature": 32.55859375,
+          "txBias": 7.494,
+          "voltage": 3.2922000000000002,
+          "txPower": -0.682879329432442,
+          "rxPower": -2.1982675635740563
+        },
+        {
+          "name": "Ethernet3/12/4",
+          "temperature": 33.65625,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.8735289378168289,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/1/4",
+          "temperature": 32.55859375,
+          "txBias": 7.494,
+          "voltage": 3.2922000000000002,
+          "txPower": -0.4210551278710142,
+          "rxPower": -1.064046661801168
+        },
+        {
+          "name": "Ethernet3/14/1",
+          "temperature": 34.27734375,
+          "txBias": 7.494,
+          "voltage": 3.2920000000000003,
+          "txPower": 0.17325554561722356,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/31/4",
+          "temperature": 31.94140625,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": -0.5330216275425812,
+          "rxPower": -1.2211057462851613
+        },
+        {
+          "name": "Ethernet3/13/1",
+          "temperature": 32.1328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": 0.48364105279886616,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/13/2",
+          "temperature": 32.1328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": 0.43872912391424634,
+          "rxPower": -24.685210829577443
+        },
+        {
+          "name": "Ethernet3/13/3",
+          "temperature": 32.1328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": 0.4289038972924466,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/3/2",
+          "temperature": 31.953125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.3838909190871931,
+          "rxPower": -0.4138834223512049
+        },
+        {
+          "name": "Ethernet3/31/1",
+          "temperature": 31.94140625,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": 0.2052701227456275,
+          "rxPower": -1.3858508136400332
+        },
+        {
+          "name": "Ethernet3/31/2",
+          "temperature": 31.94140625,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": -0.6003170944866376,
+          "rxPower": -1.3164950035203162
+        },
+        {
+          "name": "Ethernet3/31/3",
+          "temperature": 31.94140625,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": -0.6373765809652241,
+          "rxPower": -1.225134719303984
+        },
+        {
+          "name": "Ethernet3/16/1",
+          "temperature": 35.1484375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": 0.1832594540292085,
+          "rxPower": -0.19951154935043292
+        },
+        {
+          "name": "Ethernet3/36/4",
+          "temperature": 32.1640625,
+          "txBias": 7.494,
+          "voltage": 3.2917,
+          "txPower": 0.07875743767585064,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/36/3",
+          "temperature": 32.1640625,
+          "txBias": 7.494,
+          "voltage": 3.2917,
+          "txPower": 0.12541972775835575,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/36/2",
+          "temperature": 32.1640625,
+          "txBias": 7.494,
+          "voltage": 3.2917,
+          "txPower": -0.014791171649619628,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/36/1",
+          "temperature": 32.1640625,
+          "txBias": 7.494,
+          "voltage": 3.2917,
+          "txPower": 0.0496588710682353,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/5/3",
+          "temperature": 31.2890625,
+          "txBias": 7.494,
+          "voltage": 3.302,
+          "txPower": -0.14708281407111912,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/4/3",
+          "temperature": 37.2890625,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": -0.03400777299833635,
+          "rxPower": -0.4167506835594672
+        },
+        {
+          "name": "Ethernet5/13/4",
+          "temperature": 31.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": -0.09261671492462398,
+          "rxPower": 0.059522868873827406
+        },
+        {
+          "name": "Ethernet3/12/1",
+          "temperature": 33.65625,
+          "txBias": 7.494,
+          "voltage": 3.2938,
+          "txPower": -0.6777998612288094,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/16/2",
+          "temperature": 35.1484375,
+          "txBias": 7.494,
+          "voltage": 3.309,
+          "txPower": 0.4174787172326617,
+          "rxPower": -0.5507339001378462
+        },
+        {
+          "name": "Ethernet3/34/1",
+          "temperature": 32.0625,
+          "txBias": 7.494,
+          "voltage": 3.2952000000000004,
+          "txPower": -0.28816959143838616,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/14/2",
+          "temperature": 34.27734375,
+          "txBias": 7.494,
+          "voltage": 3.2920000000000003,
+          "txPower": 0.07278247334244625,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/34/3",
+          "temperature": 32.0625,
+          "txBias": 7.494,
+          "voltage": 3.2952000000000004,
+          "txPower": -0.10639186223752617,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/7/3",
+          "temperature": 30.95703125,
+          "txBias": 7.494,
+          "voltage": 3.3071,
+          "txPower": 0.20195489753194806,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/7/4",
+          "temperature": 30.95703125,
+          "txBias": 7.494,
+          "voltage": 3.3071,
+          "txPower": 0.351494577734627,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/34/4",
+          "temperature": 32.0625,
+          "txBias": 7.494,
+          "voltage": 3.2952000000000004,
+          "txPower": -0.14932966849499252,
+          "rxPower": -24.31798275933005
+        },
+        {
+          "name": "Ethernet3/14/4",
+          "temperature": 34.27734375,
+          "txBias": 7.494,
+          "voltage": 3.2920000000000003,
+          "txPower": -0.012612837441821512,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/6/1",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.2884,
+          "txPower": -0.4812844287163571,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/35/1",
+          "temperature": 31.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2935000000000003,
+          "txPower": -0.5056119896349571,
+          "rxPower": -29.586073148417746
+        },
+        {
+          "name": "Ethernet5/6/3",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.2884,
+          "txPower": -0.24752058759318984,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/35/3",
+          "temperature": 31.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2935000000000003,
+          "txPower": -0.331077041328637,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/35/4",
+          "temperature": 31.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2935000000000003,
+          "txPower": -0.5036607620073781,
+          "rxPower": -22.839966563652006
+        },
+        {
+          "name": "Ethernet5/6/4",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.2884,
+          "txPower": -0.26872146400301133,
+          "rxPower": -20.75720713938118
+        },
+        {
+          "name": "Ethernet3/15/4",
+          "temperature": 32.48828125,
+          "txBias": 7.494,
+          "voltage": 3.2962000000000002,
+          "txPower": 0.1699157820620485,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/16/2",
+          "temperature": 32.3828125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.5993198626064746,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/12/1",
+          "temperature": 31.65625,
+          "txBias": 7.494,
+          "voltage": 3.3094,
+          "txPower": -0.3805711685861297,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/19/1",
+          "temperature": 33.0546875,
+          "txBias": 7.494,
+          "voltage": 3.2813000000000003,
+          "txPower": -0.3035115951927452,
+          "rxPower": -0.7232173586200865
+        },
+        {
+          "name": "Ethernet5/18/4",
+          "temperature": 33.08984375,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.49927370249842795,
+          "rxPower": 0.6948309393461116
+        },
+        {
+          "name": "Ethernet5/18/1",
+          "temperature": 33.08984375,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.5774384958053531,
+          "rxPower": 0.5457475529482281
+        },
+        {
+          "name": "Ethernet5/18/3",
+          "temperature": 33.08984375,
+          "txBias": 7.494,
+          "voltage": 3.3030000000000004,
+          "txPower": -0.5492551152127021,
+          "rxPower": 0.8443327678654455
+        },
+        {
+          "name": "Ethernet3/17/1",
+          "temperature": 33.125,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": -0.1309396861927894,
+          "rxPower": 0.15820634262069433
+        },
+        {
+          "name": "Ethernet5/12/3",
+          "temperature": 31.65625,
+          "txBias": 7.494,
+          "voltage": 3.3094,
+          "txPower": -0.5601112492622846,
+          "rxPower": -24.559319556497243
+        },
+        {
+          "name": "Ethernet5/30/3",
+          "temperature": 32.09375,
+          "txBias": 7.494,
+          "voltage": 3.3118000000000003,
+          "txPower": -0.34469056377139395,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/7/2",
+          "temperature": 30.95703125,
+          "txBias": 7.494,
+          "voltage": 3.3071,
+          "txPower": 0.13174409878867266,
+          "rxPower": -29.586073148417746
+        },
+        {
+          "name": "Ethernet3/17/2",
+          "temperature": 33.125,
+          "txBias": 7.494,
+          "voltage": 3.2915,
+          "txPower": -0.23604163388120014,
+          "rxPower": 0.3334332313522381
+        },
+        {
+          "name": "Ethernet3/26/2",
+          "temperature": 35.703125,
+          "txBias": 7.494,
+          "voltage": 3.307,
+          "txPower": -0.1610320867369417,
+          "rxPower": -0.5007355633208768
+        },
+        {
+          "name": "Ethernet3/26/3",
+          "temperature": 35.703125,
+          "txBias": 7.494,
+          "voltage": 3.307,
+          "txPower": -0.3376437590141812,
+          "rxPower": -0.3819936080832136
+        },
+        {
+          "name": "Ethernet5/13/2",
+          "temperature": 31.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": -0.12378417874516146,
+          "rxPower": 0.14898386946205733
+        },
+        {
+          "name": "Ethernet5/13/3",
+          "temperature": 31.52734375,
+          "txBias": 7.494,
+          "voltage": 3.2939000000000003,
+          "txPower": -0.6158035420680683,
+          "rxPower": 0.0923837096846647
+        },
+        {
+          "name": "Ethernet3/21/4",
+          "temperature": 33.3203125,
+          "txBias": 7.494,
+          "voltage": 3.3078000000000003,
+          "txPower": 0.2085828191831567,
+          "rxPower": 0.24936968037443563
+        },
+        {
+          "name": "Ethernet3/21/3",
+          "temperature": 33.3203125,
+          "txBias": 7.494,
+          "voltage": 3.3078000000000003,
+          "txPower": 0.026843129897290652,
+          "rxPower": 0.296272390474126
+        },
+        {
+          "name": "Ethernet3/21/2",
+          "temperature": 33.3203125,
+          "txBias": 7.494,
+          "voltage": 3.3078000000000003,
+          "txPower": -0.463369362529086,
+          "rxPower": 0.03201946521692278
+        },
+        {
+          "name": "Ethernet3/21/1",
+          "temperature": 33.3203125,
+          "txBias": 7.494,
+          "voltage": 3.3078000000000003,
+          "txPower": -0.14528616710412479,
+          "rxPower": -0.43783530756610034
+        },
+        {
+          "name": "Ethernet3/34/2",
+          "temperature": 32.0625,
+          "txBias": 7.494,
+          "voltage": 3.2952000000000004,
+          "txPower": -0.1659926181946183,
+          "rxPower": -23.56547323513812
+        },
+        {
+          "name": "Ethernet5/10/4",
+          "temperature": 31.63671875,
+          "txBias": 0,
+          "voltage": 3.3045,
+          "txPower": -30,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/20/4",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.2991,
+          "txPower": -0.1399006814673882,
+          "rxPower": -1.154311850816665
+        },
+        {
+          "name": "Ethernet5/10/1",
+          "temperature": 31.63671875,
+          "txBias": 0,
+          "voltage": 3.3045,
+          "txPower": -30,
+          "rxPower": -24.685210829577443
+        },
+        {
+          "name": "Ethernet3/20/3",
+          "temperature": 34.8359375,
+          "txBias": 7.494,
+          "voltage": 3.2991,
+          "txPower": -0.2232211232600605,
+          "rxPower": -1.020431899930479
+        },
+        {
+          "name": "Ethernet5/10/3",
+          "temperature": 31.63671875,
+          "txBias": 0,
+          "voltage": 3.3045,
+          "txPower": -30,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/10/2",
+          "temperature": 31.63671875,
+          "txBias": 0,
+          "voltage": 3.3045,
+          "txPower": -30,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/11/4",
+          "temperature": 30.5,
+          "txBias": 7.494,
+          "voltage": 3.2964,
+          "txPower": -0.05155150446601908,
+          "rxPower": -25.228787452803374
+        },
+        {
+          "name": "Ethernet3/22/4",
+          "temperature": 35.96875,
+          "txBias": 7.494,
+          "voltage": 3.2968,
+          "txPower": -0.13273040668781633,
+          "rxPower": -0.6631029104210526
+        },
+        {
+          "name": "Ethernet5/6/2",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.2884,
+          "txPower": -0.22871099419317886,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet5/11/2",
+          "temperature": 30.5,
+          "txBias": 7.494,
+          "voltage": 3.2964,
+          "txPower": -0.2835311793569346,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/35/2",
+          "temperature": 31.08984375,
+          "txBias": 7.494,
+          "voltage": 3.2935000000000003,
+          "txPower": -0.3957679292217051,
+          "rxPower": -23.56547323513812
+        },
+        {
+          "name": "Ethernet3/23/1",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.305,
+          "txPower": -0.04584201457584669,
+          "rxPower": 0.09408399151866575
+        },
+        {
+          "name": "Ethernet3/23/3",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.305,
+          "txPower": -0.06343371384538088,
+          "rxPower": 0.2567444941034438
+        },
+        {
+          "name": "Ethernet3/23/2",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.305,
+          "txPower": -0.07093181776687629,
+          "rxPower": -0.3597620715996612
+        },
+        {
+          "name": "Ethernet5/16/3",
+          "temperature": 32.3828125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.28677754757186946,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/23/4",
+          "temperature": 32.328125,
+          "txBias": 7.494,
+          "voltage": 3.305,
+          "txPower": -0.2951365115234985,
+          "rxPower": -0.18317272628714676
+        },
+        {
+          "name": "Ethernet5/16/1",
+          "temperature": 32.3828125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.38958783046687984,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/11/2",
+          "temperature": 31.86328125,
+          "txBias": 7.494,
+          "voltage": 3.3002000000000002,
+          "txPower": -0.0718147993332039,
+          "rxPower": -30
+        },
+        {
+          "name": "Ethernet3/22/1",
+          "temperature": 35.96875,
+          "txBias": 7.494,
+          "voltage": 3.2968,
+          "txPower": -0.04891542255259651,
+          "rxPower": -0.8092190762392626
+        },
+        {
+          "name": "Ethernet5/17/4",
+          "temperature": 32.05078125,
+          "txBias": 7.494,
+          "voltage": 3.2948,
+          "txPower": 0.22923011878938837,
+          "rxPower": -0.5237025261564554
+        },
+        {
+          "name": "Ethernet3/22/3",
+          "temperature": 35.96875,
+          "txBias": 7.494,
+          "voltage": 3.2968,
+          "txPower": -0.2668737954709819,
+          "rxPower": -0.6565307326174441
+        },
+        {
+          "name": "Ethernet5/17/2",
+          "temperature": 32.05078125,
+          "txBias": 7.494,
+          "voltage": 3.2948,
+          "txPower": 0.3718737093711333,
+          "rxPower": -0.21363051615525563
+        },
+        {
+          "name": "Ethernet5/17/3",
+          "temperature": 32.05078125,
+          "txBias": 7.494,
+          "voltage": 3.2948,
+          "txPower": -0.3881629018756456,
+          "rxPower": -0.5237025261564554
+        },
+        {
+          "name": "Ethernet5/3/1",
+          "temperature": 31.953125,
+          "txBias": 7.494,
+          "voltage": 3.2934,
+          "txPower": -0.727323191891184,
+          "rxPower": -0.7992887570247618
+        }
+      ],
+      "errors": [
+        {
+          "name": "Ethernet5/32/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/21/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/3/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/11/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/3/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/12/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/8/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/2/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/1/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/1/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/13/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/31/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/29/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/32/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/18/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/28/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/4/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/33/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/9/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/19/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/14/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/5/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/34/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/30/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/23/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/34/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/15/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/14/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/35/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/36/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/33/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/6/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/35/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/8/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/15/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/36/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/7/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Management2/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/7/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Management2/2",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/16/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/5/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/20/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/22/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Management1/2",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/17/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/4/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/18/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/12/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/24/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/26/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/10/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/22/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/29/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/25/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Management1/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/2/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/21/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/24/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/28/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/13/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/10/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/19/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/6/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/20/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/27/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/27/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/11/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/30/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet3/23/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/26/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/16/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/31/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/9/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/25/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        },
+        {
+          "name": "Ethernet5/17/1",
+          "inErrors": 0,
+          "outErrors": 0,
+          "fcsErrors": 0,
+          "alignmentErrors": 0,
+          "symbolErrors": 0,
+          "frameTooShorts": 0,
+          "frameTooLongs": 0
+        }
+      ],
+      "ipv4": [
+        {
+          "name": "Ethernet5/21/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.144"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/3/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.209"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/33/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 24,
+            "address": "172.1.77.4"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/2/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.205"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/1/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.64"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/11/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.104"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/31/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.60"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/29/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.52"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/18/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.8"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/28/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.48"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/24/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.156"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/19/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.12"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/14/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.116"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/34/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 24,
+            "address": "172.1.24.4"
+          },
+          "lineProtocolStatus": "notPresent",
+          "mtu": 1500
+        },
+        {
+          "name": "Ethernet3/30/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.56"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/23/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.152"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/4/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.213"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/7/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.88"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/9/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.96"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/19/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.136"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/22/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.148"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/6/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.84"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/8/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.92"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/36/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 24,
+            "address": "172.1.46.4"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 1500
+        },
+        {
+          "name": "Management2/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 0,
+            "address": "0.0.0.0"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 1500
+        },
+        {
+          "name": "Ethernet5/15/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.120"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Management2/2",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 0,
+            "address": "0.0.0.0"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 1500
+        },
+        {
+          "name": "Ethernet3/16/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.0"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/5/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.80"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/18/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.132"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Management1/2",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 0,
+            "address": "0.0.0.0"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 1500
+        },
+        {
+          "name": "Ethernet3/17/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.4"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/4/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.76"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Management1/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 0,
+            "address": "0.0.0.0"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 1500
+        },
+        {
+          "name": "Ethernet5/12/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.108"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Loopback0",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 32,
+            "address": "172.1.243.47"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 65535
+        },
+        {
+          "name": "Ethernet5/3/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.72"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/20/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.140"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/25/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.36"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/13/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.112"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/2/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.68"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/21/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.20"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Management0",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 25,
+            "address": "60.30.163.31"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 1500
+        },
+        {
+          "name": "Ethernet5/28/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.243.114"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/24/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.32"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/10/1",
+          "interfaceStatus": "disabled",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.100"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/20/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.16"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/27/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.243.112"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/27/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.44"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/1/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.201"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/23/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.28"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/26/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.164"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/16/1",
+          "interfaceStatus": "notconnect",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.124"
+          },
+          "lineProtocolStatus": "down",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/22/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.24"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/17/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.128"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet5/25/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.160"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        },
+        {
+          "name": "Ethernet3/26/1",
+          "interfaceStatus": "connected",
+          "addresses": {
+            "maskLen": 31,
+            "address": "172.1.242.40"
+          },
+          "lineProtocolStatus": "up",
+          "mtu": 4470
+        }
+      ],
+      "ipv6": [
+        {
+          "name": "Ethernet5/36/1",
+          "interfaceStatus": "notconnect",
+          "lineProtocolStatus": "down",
+          "mtu": 1500,
+          "addresses": []
+        }
+      ]
+    }
+  }

@@ -1,0 +1,43 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vrfs": {
+                "default": {
+                    "routerId": "172.1.243.9",
+                    "peers": {
+                        "172.1.243.48": {
+                            "msgSent": 1496381,
+                            "inMsgQueue": 0,
+                            "prefixReceived": 2299,
+                            "upDownTime": 1656484480.0,
+                            "version": 4,
+                            "prefixAccepted": 2299,
+                            "msgReceived": 1668448,
+                            "peerState": "Established",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65003"
+                        },
+                        "172.1.243.47": {
+                            "msgSent": 1253424,
+                            "inMsgQueue": 0,
+                            "prefixReceived": 2242,
+                            "upDownTime": 1656484480.0,
+                            "version": 4,
+                            "prefixAccepted": 2242,
+                            "msgReceived": 1614726,
+                            "peerState": "Established",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65003"
+                        }
+                    },
+                    "vrf": "default",
+                    "asn": "65103"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vrfs": {
+                "default": {
+                    "ipv6Neighbors": {},
+                    "ipv4Neighbors": {
+                        "172.1.243.48": {
+                            "peerStats": {
+                                "": {
+                                    "status": "up",
+                                    "authType": "None",
+                                    "kernelIfIndex": 0,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 1656484430.3295,
+                                    "remoteDisc": 195975878,
+                                    "sessType": "sessionTypeMultihop",
+                                    "localDisc": 26096452,
+                                    "lastDown": 1656484430.317948,
+                                    "l3intf": "",
+                                    "tunnelId": 0
+                                }
+                            }
+                        },
+                        "172.1.243.47": {
+                            "peerStats": {
+                                "": {
+                                    "status": "up",
+                                    "authType": "None",
+                                    "kernelIfIndex": 0,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 1656484430.331571,
+                                    "remoteDisc": 3199212769,
+                                    "sessType": "sessionTypeMultihop",
+                                    "localDisc": 1920726529,
+                                    "lastDown": 1656484430.315444,
+                                    "l3intf": "",
+                                    "tunnelId": 0
+                                }
+                            }
+                        }
+                    },
+                    "ipv4ReflectorNeighbors": {},
+                    "ipv6ReflectorNeighbors": {},
+                    "ipv6InitiatorNeighbors": {},
+                    "ipv4InitiatorNeighbors": {}
+                }
+            }
+        }
+    ]
+}

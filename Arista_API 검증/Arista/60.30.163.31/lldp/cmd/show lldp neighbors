@@ -1,0 +1,237 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "tablesLastChangeTime": 1661235633.8007617,
+            "tablesAgeOuts": 0,
+            "tablesInserts": 59,
+            "lldpNeighbors": [
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-2F-TB-5G-MEC-PUB-Border-1",
+                    "neighborPort": "Ethernet21/1",
+                    "port": "Ethernet3/1/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-2F-TB-5G-MEC-PUB-Border-2",
+                    "neighborPort": "Ethernet21/1",
+                    "port": "Ethernet3/2/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-2F-TB-5G-MEC-PRI-Border-1",
+                    "neighborPort": "Ethernet53/1",
+                    "port": "Ethernet3/3/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-2F-TB-5G-MEC-PRI-Border-2",
+                    "neighborPort": "Ethernet53/1",
+                    "port": "Ethernet3/4/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-AMF-SS-LF-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/16/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-AMF-SS-LF-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/17/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-AMF-SS-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/18/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-AMF-SS-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/19/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-2F-TB-5G-SA-PUB-SMF-SS-LF-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/20/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-2F-TB-5G-SA-PUB-SMF-SS-LF-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/21/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-SMF-SS-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/22/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-SMF-SS-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/23/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-5G-C-PUB-UPF01-LF-01",
+                    "neighborPort": "Ethernet27/1",
+                    "port": "Ethernet3/24/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNDG-5G-C-PUB-UPF01-LF-02",
+                    "neighborPort": "Ethernet27/1",
+                    "port": "Ethernet3/25/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-UPF-SS-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/26/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-UPF-SS-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/27/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-AMF-UDSF-SS-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/28/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-AMF-UDSF-SS-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/29/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-AMF-UDSF-SS-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/30/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-AMF-UDSF-SS-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet3/31/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-SMF-UDSF-SS-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/1/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-SMF-UDSF-SS-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/2/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-SMF-UDSF-SS-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/3/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-SMF-UDSF-SS-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/4/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-NAT-ToR-03",
+                    "neighborPort": "Ethernet27/1",
+                    "port": "Ethernet5/13/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-ADC-LF-01",
+                    "neighborPort": "Ethernet27/1",
+                    "port": "Ethernet5/14/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-NSSF-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/17/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-NSSF-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/18/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-NSSF-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/19/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-NSSF-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/20/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-NRF-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/21/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-NRF-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/22/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-NRF-ToR-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/23/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PRI-NRF-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/24/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-NAT-LF-01",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/25/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-PUB-NAT-ToR-02",
+                    "neighborPort": "Ethernet49/1",
+                    "port": "Ethernet5/26/1"
+                },
+                {
+                    "ttl": 120,
+                    "neighborDevice": "BNGD-2F-TB-5G-SA-OOB",
+                    "neighborPort": "Ethernet12",
+                    "port": "Management1/1"
+                }
+            ],
+            "tablesDeletes": 22,
+            "tablesDrops": 0
+        }
+    ]
+}

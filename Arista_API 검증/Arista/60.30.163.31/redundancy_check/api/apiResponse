@@ -1,0 +1,12 @@
+{
+    "admin_ip": "60.30.163.31",
+    "hostname": "BNGD-2F-TB-5G-SA-Spine-01",
+    "redun_check": {
+        "slotId": 1,
+        "unitDesc": "Primary",
+        "myMode": "active",
+        "peerMode": "standby",
+        "timeout": 720,
+        "switchoverReady": true
+    }
+}

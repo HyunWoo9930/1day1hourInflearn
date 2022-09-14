@@ -1,0 +1,16 @@
+{
+    "admin_ip": "60.30.163.41",
+    "hostname": "BNDG-5G-C-PUB-UPF01-LF-01",
+    "ntp": {
+        "server": "60.30.131.201",
+        "status": "synchronised",
+        "condition": "sys.peer",
+        "refid": "LOCAL(0)",
+        "stratumLevel": 6,
+        "peerType": "unicast",
+        "pollInterval": 1024,
+        "delay": 0.258,
+        "offset": -1.006,
+        "jitter": 0.651
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "admin_ip": "60.30.163.41",
+    "hostname": "BNDG-5G-C-PUB-UPF01-LF-01",
+    "vxlan": [
+        {
+            "interfaces": "Vxlan1",
+            "vtepTunnelTypes": [
+                {
+                    "vteps": "172.1.245.234",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.236",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.230",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.232",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.216",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.238",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.242.252",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.60",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.76",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.66",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.67",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.65",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.68",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.69",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.228",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.81",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.82",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.83",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.84",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.85",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.204",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "177.11.243.2",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "177.11.243.3",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.242.253",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.242",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.208",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.222",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.220",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.226",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.224",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.206",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.79",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.78",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.75",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.77",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.245.202",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.70",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.57",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.56",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.54",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.53",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.52",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.51",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.59",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.58",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.93",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.92",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.95",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.94",
+                    "tunnelType": "unicast"
+                },
+                {
+                    "vteps": "172.1.243.100",
+                    "tunnelType": "unicast"
+                }
+            ],
+            "description": "",
+            "srcIpIntf": "Loopback100",
+            "vlanToVniMap": {
+                "3903": {
+                    "source": "evpn",
+                    "vni": 17202
+                },
+                "3904": {
+                    "source": "evpn",
+                    "vni": 17200
+                },
+                "3908": {
+                    "source": "evpn",
+                    "vni": 16000
+                },
+                "3989": {
+                    "source": "evpn",
+                    "vni": 4004
+                },
+                "3990": {
+                    "source": "evpn",
+                    "vni": 16666
+                },
+                "3991": {
+                    "source": "evpn",
+                    "vni": 17203
+                },
+                "3997": {
+                    "source": "evpn",
+                    "vni": 14800
+                },
+                "3999": {
+                    "source": "evpn",
+                    "vni": 17201
+                }
+            },
+            "srcIpAddr": "172.1.243.55",
+            "name": "Vxlan1",
+            "interfaceStatus": "connected",
+            "vrfToVniMap": {
+                "SBI_VRF": 17201,
+                "5G_VRF": 14800,
+                "NMS_VRF": 16000,
+                "GLOBAL_VRF": 17200,
+                "NAT01_VRF": 17202
+            },
+            "lineProtocolStatus": "up"
+        }
+    ]
+}

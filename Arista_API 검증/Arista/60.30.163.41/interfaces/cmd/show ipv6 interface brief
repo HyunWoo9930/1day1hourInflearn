@@ -1,0 +1,1151 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "interfaces": {
+                "Vlan3617": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f788/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f78a"
+                        }
+                    ],
+                    "name": "Vlan3617",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3616": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f780/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f782"
+                        }
+                    ],
+                    "name": "Vlan3616",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3615": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f778/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f77a"
+                        }
+                    ],
+                    "name": "Vlan3615",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3614": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f770/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f772"
+                        }
+                    ],
+                    "name": "Vlan3614",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3613": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f768/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f76a"
+                        }
+                    ],
+                    "name": "Vlan3613",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3612": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f760/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f762"
+                        }
+                    ],
+                    "name": "Vlan3612",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3611": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f758/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f75a"
+                        }
+                    ],
+                    "name": "Vlan3611",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3610": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f750/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f752"
+                        }
+                    ],
+                    "name": "Vlan3610",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3653": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec18/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec1a"
+                        }
+                    ],
+                    "name": "Vlan3653",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3652": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec10/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec12"
+                        }
+                    ],
+                    "name": "Vlan3652",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3651": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec08/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec0a"
+                        }
+                    ],
+                    "name": "Vlan3651",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3650": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec00/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec02"
+                        }
+                    ],
+                    "name": "Vlan3650",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3657": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec38/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec3a"
+                        }
+                    ],
+                    "name": "Vlan3657",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3659": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec48/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec4a"
+                        }
+                    ],
+                    "name": "Vlan3659",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3619": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f798/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f79a"
+                        }
+                    ],
+                    "name": "Vlan3619",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3618": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f790/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f792"
+                        }
+                    ],
+                    "name": "Vlan3618",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3654": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec20/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec22"
+                        }
+                    ],
+                    "name": "Vlan3654",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3658": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec40/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec42"
+                        }
+                    ],
+                    "name": "Vlan3658",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3662": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec60/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec62"
+                        }
+                    ],
+                    "name": "Vlan3662",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3999": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3999",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3672": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ecb0/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ecb2"
+                        }
+                    ],
+                    "name": "Vlan3672",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3668": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec90/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec92"
+                        }
+                    ],
+                    "name": "Vlan3668",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3990": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3990",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3991": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3991",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3603": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f718/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f71a"
+                        }
+                    ],
+                    "name": "Vlan3603",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3997": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3997",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3622": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f7b0/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f7b2"
+                        }
+                    ],
+                    "name": "Vlan3622",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3623": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f7b8/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f7ba"
+                        }
+                    ],
+                    "name": "Vlan3623",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3620": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f7a0/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f7a2"
+                        }
+                    ],
+                    "name": "Vlan3620",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3621": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f7a8/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f7aa"
+                        }
+                    ],
+                    "name": "Vlan3621",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3664": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec70/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec72"
+                        }
+                    ],
+                    "name": "Vlan3664",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3604": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f720/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f722"
+                        }
+                    ],
+                    "name": "Vlan3604",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3605": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f728/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f72a"
+                        }
+                    ],
+                    "name": "Vlan3605",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3606": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f730/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f732"
+                        }
+                    ],
+                    "name": "Vlan3606",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3607": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f738/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f73a"
+                        }
+                    ],
+                    "name": "Vlan3607",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3600": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f700/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f702"
+                        }
+                    ],
+                    "name": "Vlan3600",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3601": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f708/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f70a"
+                        }
+                    ],
+                    "name": "Vlan3601",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3602": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f710/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f712"
+                        }
+                    ],
+                    "name": "Vlan3602",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3669": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec98/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec9a"
+                        }
+                    ],
+                    "name": "Vlan3669",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3666": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec80/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec82"
+                        }
+                    ],
+                    "name": "Vlan3666",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3667": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec88/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec8a"
+                        }
+                    ],
+                    "name": "Vlan3667",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3671": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:eca8/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ecaa"
+                        }
+                    ],
+                    "name": "Vlan3671",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3665": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec78/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec7a"
+                        }
+                    ],
+                    "name": "Vlan3665",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3608": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f740/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f742"
+                        }
+                    ],
+                    "name": "Vlan3608",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3663": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec68/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec6a"
+                        }
+                    ],
+                    "name": "Vlan3663",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3660": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec50/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec52"
+                        }
+                    ],
+                    "name": "Vlan3660",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3656": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec30/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec32"
+                        }
+                    ],
+                    "name": "Vlan3656",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3903": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3903",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3655": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec28/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec2a"
+                        }
+                    ],
+                    "name": "Vlan3655",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3904": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3904",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3908": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3908",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3609": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:f748/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:f74a"
+                        }
+                    ],
+                    "name": "Vlan3609",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3673": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ecb8/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ecba"
+                        }
+                    ],
+                    "name": "Vlan3673",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3670": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:eca0/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:eca2"
+                        }
+                    ],
+                    "name": "Vlan3670",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Vlan3989": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [],
+                    "name": "Vlan3989",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 9164
+                },
+                "Vlan3661": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::febd:67ff:fe1e:e189"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "fd00::45:0:8:ac01:ec58/125",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "fd00::45:0:8:ac01:ec5a"
+                        }
+                    ],
+                    "name": "Vlan3661",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 4470
+                },
+                "Loopback1": {
+                    "linkLocal": {
+                        "subnet": "fe80::/64",
+                        "dadfailed": false,
+                        "active": true,
+                        "address": "fe80::ff:fe00:0"
+                    },
+                    "addrSource": "manual",
+                    "addresses": [
+                        {
+                            "subnet": "2001:2d8:2fa0:4000::1/128",
+                            "dadfailed": false,
+                            "active": true,
+                            "address": "2001:2d8:2fa0:4000::1"
+                        }
+                    ],
+                    "name": "Loopback1",
+                    "interfaceStatus": "connected",
+                    "lineProtocolStatus": "up",
+                    "mtu": 65535
+                }
+            }
+        }
+    ]
+}

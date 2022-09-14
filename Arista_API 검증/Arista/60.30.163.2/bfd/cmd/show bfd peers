@@ -1,0 +1,136 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vrfs": {
+                "GLOBAL_VRF": {
+                    "ipv6Neighbors": {},
+                    "ipv4Neighbors": {
+                        "172.1.245.186": {
+                            "peerStats": {
+                                "Ethernet26/1.2": {
+                                    "status": "down",
+                                    "authType": "None",
+                                    "kernelIfIndex": 2,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 0.0,
+                                    "remoteDisc": 0,
+                                    "sessType": "sessionTypeNormal",
+                                    "localDisc": 767273137,
+                                    "lastDown": 0.0,
+                                    "l3intf": "Ethernet26/1.2",
+                                    "tunnelId": 0
+                                }
+                            }
+                        },
+                        "172.1.245.178": {
+                            "peerStats": {
+                                "Ethernet25/1.2": {
+                                    "status": "down",
+                                    "authType": "None",
+                                    "kernelIfIndex": 3,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 0.0,
+                                    "remoteDisc": 0,
+                                    "sessType": "sessionTypeNormal",
+                                    "localDisc": 3151965423,
+                                    "lastDown": 0.0,
+                                    "l3intf": "Ethernet25/1.2",
+                                    "tunnelId": 0
+                                }
+                            }
+                        }
+                    },
+                    "ipv4ReflectorNeighbors": {},
+                    "ipv6ReflectorNeighbors": {},
+                    "ipv6InitiatorNeighbors": {},
+                    "ipv4InitiatorNeighbors": {}
+                },
+                "default": {
+                    "ipv6Neighbors": {},
+                    "ipv4Neighbors": {
+                        "172.1.243.47": {
+                            "peerStats": {
+                                "": {
+                                    "status": "up",
+                                    "authType": "None",
+                                    "kernelIfIndex": 0,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 1643092068.26261,
+                                    "remoteDisc": 2931460804,
+                                    "sessType": "sessionTypeMultihop",
+                                    "localDisc": 4289952600,
+                                    "lastDown": 1643092068.253535,
+                                    "l3intf": "",
+                                    "tunnelId": 0
+                                }
+                            }
+                        },
+                        "172.1.245.212": {
+                            "peerStats": {
+                                "": {
+                                    "status": "up",
+                                    "authType": "None",
+                                    "kernelIfIndex": 0,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 1647846995.034243,
+                                    "remoteDisc": 456405624,
+                                    "sessType": "sessionTypeMultihop",
+                                    "localDisc": 2782466530,
+                                    "lastDown": 1647846967.622332,
+                                    "l3intf": "",
+                                    "tunnelId": 0
+                                }
+                            }
+                        },
+                        "172.1.243.48": {
+                            "peerStats": {
+                                "": {
+                                    "status": "up",
+                                    "authType": "None",
+                                    "kernelIfIndex": 0,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 1642733736.301581,
+                                    "remoteDisc": 3717212832,
+                                    "sessType": "sessionTypeMultihop",
+                                    "localDisc": 4137920540,
+                                    "lastDown": 1642733736.293611,
+                                    "l3intf": "",
+                                    "tunnelId": 0
+                                }
+                            }
+                        },
+                        "172.1.245.211": {
+                            "peerStats": {
+                                "": {
+                                    "status": "up",
+                                    "authType": "None",
+                                    "kernelIfIndex": 0,
+                                    "lastDiag": "diagNone",
+                                    "authProfileName": "",
+                                    "lastUp": 1647847024.972717,
+                                    "remoteDisc": 236123116,
+                                    "sessType": "sessionTypeMultihop",
+                                    "localDisc": 2451076901,
+                                    "lastDown": 1647847024.964903,
+                                    "l3intf": "",
+                                    "tunnelId": 0
+                                }
+                            }
+                        }
+                    },
+                    "ipv4ReflectorNeighbors": {},
+                    "ipv6ReflectorNeighbors": {},
+                    "ipv6InitiatorNeighbors": {},
+                    "ipv4InitiatorNeighbors": {}
+                }
+            }
+        }
+    ]
+}

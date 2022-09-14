@@ -1,0 +1,15 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "error": {
+        "data": [
+            {
+                "errors": [
+                    "not supported on this hardware platform (at token 1: 'redundancy')"
+                ]
+            }
+        ],
+        "message": "CLI command 1 of 1 'show redundancy status' failed: invalid command",
+        "code": 1002
+    }
+}

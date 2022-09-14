@@ -1,0 +1,66 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vrfs": {
+                "GLOBAL_VRF": {
+                    "instList": {
+                        "0": {
+                            "ospf3NeighborEntries": [
+                                {
+                                    "routerId": "172.1.244.165",
+                                    "priority": 1,
+                                    "areaId": "0.0.0.2",
+                                    "backupDesignatedRouter": null,
+                                    "designatedRouter": null,
+                                    "details": {
+                                        "grNumAttempts": 0,
+                                        "bfdRequestSent": false,
+                                        "bfdState": "adminDown"
+                                    },
+                                    "inactivity": 1662512601.044762,
+                                    "adjacencyState": "full",
+                                    "options": {
+                                        "doNotUseInRouteCalc": true,
+                                        "activeRouter": true,
+                                        "demandCircuitsSupport": false,
+                                        "nssaCapability": false,
+                                        "externalRoutingCapability": true,
+                                        "addressFamily": false,
+                                        "multicastCapability": false
+                                    },
+                                    "interfaceName": "Ethernet26/1.2"
+                                },
+                                {
+                                    "routerId": "172.1.244.164",
+                                    "priority": 1,
+                                    "areaId": "0.0.0.2",
+                                    "backupDesignatedRouter": null,
+                                    "designatedRouter": null,
+                                    "details": {
+                                        "grNumAttempts": 0,
+                                        "bfdRequestSent": false,
+                                        "bfdState": "adminDown"
+                                    },
+                                    "inactivity": 1662512597.045775,
+                                    "adjacencyState": "full",
+                                    "options": {
+                                        "doNotUseInRouteCalc": true,
+                                        "activeRouter": true,
+                                        "demandCircuitsSupport": false,
+                                        "nssaCapability": false,
+                                        "externalRoutingCapability": true,
+                                        "addressFamily": false,
+                                        "multicastCapability": false
+                                    },
+                                    "interfaceName": "Ethernet25/1.2"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

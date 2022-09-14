@@ -1,0 +1,8 @@
+{
+    "admin_ip": "60.30.163.31",
+    "hostname": "BNGD-2F-TB-5G-SA-Spine-01",
+    "ntp": {
+        "server": null,
+        "status": "disabled"
+    }
+}

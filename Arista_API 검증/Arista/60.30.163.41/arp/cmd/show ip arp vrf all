@@ -1,0 +1,1558 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vrfs": {
+                "SBI_VRF": {
+                    "dynamicEntries": 48,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "fa16.3ef2.4793",
+                            "address": "172.1.235.36",
+                            "interface": "Vlan1100, Ethernet2/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e55.eb3b",
+                            "address": "172.1.235.44",
+                            "interface": "Vlan1101, Ethernet4/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e83.b644",
+                            "address": "172.1.235.52",
+                            "interface": "Vlan1102, Ethernet5/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e75.ede9",
+                            "address": "172.1.235.60",
+                            "interface": "Vlan1103, Ethernet6/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3eac.4f38",
+                            "address": "172.1.235.68",
+                            "interface": "Vlan1104, Ethernet7/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e98.1d28",
+                            "address": "172.1.235.76",
+                            "interface": "Vlan1105, Ethernet8/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e22.f1f3",
+                            "address": "172.1.235.84",
+                            "interface": "Vlan1106, Ethernet9/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3efe.08b8",
+                            "address": "172.1.235.92",
+                            "interface": "Vlan1107, Ethernet10/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea3.2d1c",
+                            "address": "172.1.235.100",
+                            "interface": "Vlan1108, Ethernet11/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e70.1ebb",
+                            "address": "172.1.235.108",
+                            "interface": "Vlan1109, Ethernet12/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e50.6e03",
+                            "address": "172.1.235.116",
+                            "interface": "Vlan1110, Ethernet13/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3edf.4b84",
+                            "address": "172.1.235.124",
+                            "interface": "Vlan1111, Ethernet14/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e17.0ab4",
+                            "address": "172.1.235.132",
+                            "interface": "Vlan1112, Ethernet15/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.6430",
+                            "address": "172.1.235.140",
+                            "interface": "Vlan1113, Ethernet16/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.7157",
+                            "address": "172.1.235.148",
+                            "interface": "Vlan1114, Ethernet17/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e20.2e9c",
+                            "address": "172.1.235.156",
+                            "interface": "Vlan1115, Ethernet18/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e4b.194f",
+                            "address": "172.1.235.164",
+                            "interface": "Vlan1116, Ethernet19/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ecc.d1cb",
+                            "address": "172.1.235.172",
+                            "interface": "Vlan1117, Ethernet20/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea9.fd3c",
+                            "address": "172.1.235.180",
+                            "interface": "Vlan1118, Ethernet21/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e39.80a9",
+                            "address": "172.1.235.188",
+                            "interface": "Vlan1119, Ethernet22/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e54.c7d4",
+                            "address": "172.1.235.196",
+                            "interface": "Vlan1120, Ethernet23/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e82.37b3",
+                            "address": "172.1.235.204",
+                            "interface": "Vlan1121, Ethernet24/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e74.527c",
+                            "address": "172.1.235.212",
+                            "interface": "Vlan1122, Ethernet25/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e38.d4dc",
+                            "address": "172.1.235.220",
+                            "interface": "Vlan1123, Ethernet26/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ef2.4793",
+                            "address": "172.1.149.4",
+                            "interface": "Vlan3750, Ethernet2/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e55.eb3b",
+                            "address": "172.1.149.12",
+                            "interface": "Vlan3751, Ethernet4/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e83.b644",
+                            "address": "172.1.149.20",
+                            "interface": "Vlan3752, Ethernet5/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e75.ede9",
+                            "address": "172.1.149.28",
+                            "interface": "Vlan3753, Ethernet6/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3eac.4f38",
+                            "address": "172.1.149.36",
+                            "interface": "Vlan3754, Ethernet7/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e98.1d28",
+                            "address": "172.1.149.44",
+                            "interface": "Vlan3755, Ethernet8/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e22.f1f3",
+                            "address": "172.1.149.52",
+                            "interface": "Vlan3756, Ethernet9/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3efe.08b8",
+                            "address": "172.1.149.60",
+                            "interface": "Vlan3757, Ethernet10/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea3.2d1c",
+                            "address": "172.1.149.68",
+                            "interface": "Vlan3758, Ethernet11/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e70.1ebb",
+                            "address": "172.1.149.76",
+                            "interface": "Vlan3759, Ethernet12/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e50.6e03",
+                            "address": "172.1.149.84",
+                            "interface": "Vlan3760, Ethernet13/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3edf.4b84",
+                            "address": "172.1.149.92",
+                            "interface": "Vlan3761, Ethernet14/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e17.0ab4",
+                            "address": "172.1.149.100",
+                            "interface": "Vlan3762, Ethernet15/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.6430",
+                            "address": "172.1.149.108",
+                            "interface": "Vlan3763, Ethernet16/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.7157",
+                            "address": "172.1.149.116",
+                            "interface": "Vlan3764, Ethernet17/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e20.2e9c",
+                            "address": "172.1.149.124",
+                            "interface": "Vlan3765, Ethernet18/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e4b.194f",
+                            "address": "172.1.149.132",
+                            "interface": "Vlan3766, Ethernet19/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ecc.d1cb",
+                            "address": "172.1.149.140",
+                            "interface": "Vlan3767, Ethernet20/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea9.fd3c",
+                            "address": "172.1.149.148",
+                            "interface": "Vlan3768, Ethernet21/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e39.80a9",
+                            "address": "172.1.149.156",
+                            "interface": "Vlan3769, Ethernet22/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e54.c7d4",
+                            "address": "172.1.149.164",
+                            "interface": "Vlan3770, Ethernet23/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e82.37b3",
+                            "address": "172.1.149.172",
+                            "interface": "Vlan3771, Ethernet24/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e74.527c",
+                            "address": "172.1.149.180",
+                            "interface": "Vlan3772, Ethernet25/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e38.d4dc",
+                            "address": "172.1.149.188",
+                            "interface": "Vlan3773, Ethernet26/2",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 48,
+                    "staticEntries": 0
+                },
+                "5G_VRF": {
+                    "dynamicEntries": 34,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.3",
+                            "interface": "Vlan3300, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ef2.4793",
+                            "address": "48.0.48.4",
+                            "interface": "Vlan3300, Ethernet2/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e55.eb3b",
+                            "address": "48.0.48.12",
+                            "interface": "Vlan3301, Ethernet4/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e83.b644",
+                            "address": "48.0.48.20",
+                            "interface": "Vlan3302, Ethernet5/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e75.ede9",
+                            "address": "48.0.48.28",
+                            "interface": "Vlan3303, Ethernet6/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.35",
+                            "interface": "Vlan3304, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3eac.4f38",
+                            "address": "48.0.48.36",
+                            "interface": "Vlan3304, Ethernet7/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e98.1d28",
+                            "address": "48.0.48.44",
+                            "interface": "Vlan3305, Ethernet8/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.51",
+                            "interface": "Vlan3306, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e22.f1f3",
+                            "address": "48.0.48.52",
+                            "interface": "Vlan3306, Ethernet9/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3efe.08b8",
+                            "address": "48.0.48.60",
+                            "interface": "Vlan3307, Ethernet10/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea3.2d1c",
+                            "address": "48.0.48.68",
+                            "interface": "Vlan3308, Ethernet11/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.75",
+                            "interface": "Vlan3309, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e70.1ebb",
+                            "address": "48.0.48.76",
+                            "interface": "Vlan3309, Ethernet12/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e50.6e03",
+                            "address": "48.0.48.84",
+                            "interface": "Vlan3310, Ethernet13/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.91",
+                            "interface": "Vlan3311, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3edf.4b84",
+                            "address": "48.0.48.92",
+                            "interface": "Vlan3311, Ethernet14/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.99",
+                            "interface": "Vlan3312, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e17.0ab4",
+                            "address": "48.0.48.100",
+                            "interface": "Vlan3312, Ethernet15/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.107",
+                            "interface": "Vlan3313, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.6430",
+                            "address": "48.0.48.108",
+                            "interface": "Vlan3313, Ethernet16/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.115",
+                            "interface": "Vlan3314, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.7157",
+                            "address": "48.0.48.116",
+                            "interface": "Vlan3314, Ethernet17/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e20.2e9c",
+                            "address": "48.0.48.124",
+                            "interface": "Vlan3315, Ethernet18/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e4b.194f",
+                            "address": "48.0.48.132",
+                            "interface": "Vlan3316, Ethernet19/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.139",
+                            "interface": "Vlan3317, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ecc.d1cb",
+                            "address": "48.0.48.140",
+                            "interface": "Vlan3317, Ethernet20/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea9.fd3c",
+                            "address": "48.0.48.148",
+                            "interface": "Vlan3318, Ethernet21/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e39.80a9",
+                            "address": "48.0.48.156",
+                            "interface": "Vlan3319, Ethernet22/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e54.c7d4",
+                            "address": "48.0.48.164",
+                            "interface": "Vlan3320, Ethernet23/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e82.37b3",
+                            "address": "48.0.48.172",
+                            "interface": "Vlan3321, Ethernet24/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "48.0.48.179",
+                            "interface": "Vlan3322, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e74.527c",
+                            "address": "48.0.48.180",
+                            "interface": "Vlan3322, Ethernet25/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e38.d4dc",
+                            "address": "48.0.48.188",
+                            "interface": "Vlan3323, Ethernet26/2",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 34,
+                    "staticEntries": 0
+                },
+                "NMS_VRF": {
+                    "dynamicEntries": 1,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "fa16.3e56.3a86",
+                            "address": "40.62.0.12",
+                            "interface": "Vlan121, Ethernet1/1",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 1,
+                    "staticEntries": 0
+                },
+                "GLOBAL_VRF": {
+                    "dynamicEntries": 97,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.3",
+                            "interface": "Vlan3400, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ef2.4793",
+                            "address": "172.1.231.4",
+                            "interface": "Vlan3400, Ethernet2/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.11",
+                            "interface": "Vlan3401, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e55.eb3b",
+                            "address": "172.1.231.12",
+                            "interface": "Vlan3401, Ethernet4/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e83.b644",
+                            "address": "172.1.231.20",
+                            "interface": "Vlan3402, Ethernet5/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.27",
+                            "interface": "Vlan3403, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e75.ede9",
+                            "address": "172.1.231.28",
+                            "interface": "Vlan3403, Ethernet6/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3eac.4f38",
+                            "address": "172.1.231.36",
+                            "interface": "Vlan3404, Ethernet7/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e98.1d28",
+                            "address": "172.1.231.44",
+                            "interface": "Vlan3405, Ethernet8/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e22.f1f3",
+                            "address": "172.1.231.52",
+                            "interface": "Vlan3406, Ethernet9/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3efe.08b8",
+                            "address": "172.1.231.60",
+                            "interface": "Vlan3407, Ethernet10/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea3.2d1c",
+                            "address": "172.1.231.68",
+                            "interface": "Vlan3408, Ethernet11/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e70.1ebb",
+                            "address": "172.1.231.76",
+                            "interface": "Vlan3409, Ethernet12/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e50.6e03",
+                            "address": "172.1.231.84",
+                            "interface": "Vlan3410, Ethernet13/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.91",
+                            "interface": "Vlan3411, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3edf.4b84",
+                            "address": "172.1.231.92",
+                            "interface": "Vlan3411, Ethernet14/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e17.0ab4",
+                            "address": "172.1.231.100",
+                            "interface": "Vlan3412, Ethernet15/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.107",
+                            "interface": "Vlan3413, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.6430",
+                            "address": "172.1.231.108",
+                            "interface": "Vlan3413, Ethernet16/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.7157",
+                            "address": "172.1.231.116",
+                            "interface": "Vlan3414, Ethernet17/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.123",
+                            "interface": "Vlan3415, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e20.2e9c",
+                            "address": "172.1.231.124",
+                            "interface": "Vlan3415, Ethernet18/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.131",
+                            "interface": "Vlan3416, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e4b.194f",
+                            "address": "172.1.231.132",
+                            "interface": "Vlan3416, Ethernet19/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ecc.d1cb",
+                            "address": "172.1.231.140",
+                            "interface": "Vlan3417, Ethernet20/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.147",
+                            "interface": "Vlan3418, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea9.fd3c",
+                            "address": "172.1.231.148",
+                            "interface": "Vlan3418, Ethernet21/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.155",
+                            "interface": "Vlan3419, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e39.80a9",
+                            "address": "172.1.231.156",
+                            "interface": "Vlan3419, Ethernet22/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e54.c7d4",
+                            "address": "172.1.231.164",
+                            "interface": "Vlan3420, Ethernet23/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.171",
+                            "interface": "Vlan3421, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e82.37b3",
+                            "address": "172.1.231.172",
+                            "interface": "Vlan3421, Ethernet24/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e74.527c",
+                            "address": "172.1.231.180",
+                            "interface": "Vlan3422, Ethernet25/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.231.187",
+                            "interface": "Vlan3423, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e38.d4dc",
+                            "address": "172.1.231.188",
+                            "interface": "Vlan3423, Ethernet26/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.236.3",
+                            "interface": "Vlan3650, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ef2.4793",
+                            "address": "172.1.236.4",
+                            "interface": "Vlan3650, Ethernet2/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e55.eb3b",
+                            "address": "172.1.236.12",
+                            "interface": "Vlan3651, Ethernet4/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.236.19",
+                            "interface": "Vlan3652, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e83.b644",
+                            "address": "172.1.236.20",
+                            "interface": "Vlan3652, Ethernet5/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e75.ede9",
+                            "address": "172.1.236.28",
+                            "interface": "Vlan3653, Ethernet6/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3eac.4f38",
+                            "address": "172.1.236.36",
+                            "interface": "Vlan3654, Ethernet7/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.236.43",
+                            "interface": "Vlan3655, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e98.1d28",
+                            "address": "172.1.236.44",
+                            "interface": "Vlan3655, Ethernet8/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.236.51",
+                            "interface": "Vlan3656, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e22.f1f3",
+                            "address": "172.1.236.52",
+                            "interface": "Vlan3656, Ethernet9/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3efe.08b8",
+                            "address": "172.1.236.60",
+                            "interface": "Vlan3657, Ethernet10/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea3.2d1c",
+                            "address": "172.1.236.68",
+                            "interface": "Vlan3658, Ethernet11/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.236.75",
+                            "interface": "Vlan3659, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e70.1ebb",
+                            "address": "172.1.236.76",
+                            "interface": "Vlan3659, Ethernet12/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e50.6e03",
+                            "address": "172.1.236.84",
+                            "interface": "Vlan3660, Ethernet13/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3edf.4b84",
+                            "address": "172.1.236.92",
+                            "interface": "Vlan3661, Ethernet14/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e17.0ab4",
+                            "address": "172.1.236.100",
+                            "interface": "Vlan3662, Ethernet15/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.6430",
+                            "address": "172.1.236.108",
+                            "interface": "Vlan3663, Ethernet16/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.7157",
+                            "address": "172.1.236.116",
+                            "interface": "Vlan3664, Ethernet17/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e20.2e9c",
+                            "address": "172.1.236.124",
+                            "interface": "Vlan3665, Ethernet18/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e4b.194f",
+                            "address": "172.1.236.132",
+                            "interface": "Vlan3666, Ethernet19/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ecc.d1cb",
+                            "address": "172.1.236.140",
+                            "interface": "Vlan3667, Ethernet20/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea9.fd3c",
+                            "address": "172.1.236.148",
+                            "interface": "Vlan3668, Ethernet21/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e39.80a9",
+                            "address": "172.1.236.156",
+                            "interface": "Vlan3669, Ethernet22/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e54.c7d4",
+                            "address": "172.1.236.164",
+                            "interface": "Vlan3670, Ethernet23/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e82.37b3",
+                            "address": "172.1.236.172",
+                            "interface": "Vlan3671, Ethernet24/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.236.179",
+                            "interface": "Vlan3672, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e74.527c",
+                            "address": "172.1.236.180",
+                            "interface": "Vlan3672, Ethernet25/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.236.187",
+                            "interface": "Vlan3673, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e38.d4dc",
+                            "address": "172.1.236.188",
+                            "interface": "Vlan3673, Ethernet26/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ef2.4793",
+                            "address": "172.1.148.4",
+                            "interface": "Vlan3700, Ethernet2/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e55.eb3b",
+                            "address": "172.1.148.12",
+                            "interface": "Vlan3701, Ethernet4/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e83.b644",
+                            "address": "172.1.148.20",
+                            "interface": "Vlan3702, Ethernet5/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e75.ede9",
+                            "address": "172.1.148.28",
+                            "interface": "Vlan3703, Ethernet6/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3eac.4f38",
+                            "address": "172.1.148.36",
+                            "interface": "Vlan3704, Ethernet7/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e98.1d28",
+                            "address": "172.1.148.44",
+                            "interface": "Vlan3705, Ethernet8/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.148.51",
+                            "interface": "Vlan3706, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e22.f1f3",
+                            "address": "172.1.148.52",
+                            "interface": "Vlan3706, Ethernet9/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3efe.08b8",
+                            "address": "172.1.148.60",
+                            "interface": "Vlan3707, Ethernet10/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.148.67",
+                            "interface": "Vlan3708, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea3.2d1c",
+                            "address": "172.1.148.68",
+                            "interface": "Vlan3708, Ethernet11/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.148.75",
+                            "interface": "Vlan3709, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e70.1ebb",
+                            "address": "172.1.148.76",
+                            "interface": "Vlan3709, Ethernet12/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e50.6e03",
+                            "address": "172.1.148.84",
+                            "interface": "Vlan3710, Ethernet13/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.148.91",
+                            "interface": "Vlan3711, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3edf.4b84",
+                            "address": "172.1.148.92",
+                            "interface": "Vlan3711, Ethernet14/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e17.0ab4",
+                            "address": "172.1.148.100",
+                            "interface": "Vlan3712, Ethernet15/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.6430",
+                            "address": "172.1.148.108",
+                            "interface": "Vlan3713, Ethernet16/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.148.115",
+                            "interface": "Vlan3714, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.7157",
+                            "address": "172.1.148.116",
+                            "interface": "Vlan3714, Ethernet17/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.148.123",
+                            "interface": "Vlan3715, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e20.2e9c",
+                            "address": "172.1.148.124",
+                            "interface": "Vlan3715, Ethernet18/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e4b.194f",
+                            "address": "172.1.148.132",
+                            "interface": "Vlan3716, Ethernet19/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ecc.d1cb",
+                            "address": "172.1.148.140",
+                            "interface": "Vlan3717, Ethernet20/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.148.147",
+                            "interface": "Vlan3718, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea9.fd3c",
+                            "address": "172.1.148.148",
+                            "interface": "Vlan3718, Ethernet21/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e39.80a9",
+                            "address": "172.1.148.156",
+                            "interface": "Vlan3719, Ethernet22/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e54.c7d4",
+                            "address": "172.1.148.164",
+                            "interface": "Vlan3720, Ethernet23/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e82.37b3",
+                            "address": "172.1.148.172",
+                            "interface": "Vlan3721, Ethernet24/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e74.527c",
+                            "address": "172.1.148.180",
+                            "interface": "Vlan3722, Ethernet25/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e38.d4dc",
+                            "address": "172.1.148.188",
+                            "interface": "Vlan3723, Ethernet26/2",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 97,
+                    "staticEntries": 0
+                },
+                "default": {
+                    "dynamicEntries": 23,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "7483.efff.e5fc",
+                            "address": "172.1.242.32",
+                            "interface": "Ethernet27/1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "7483.efff.e5f5",
+                            "address": "172.1.242.34",
+                            "interface": "Ethernet28/1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.242.169",
+                            "interface": "Vlan4090, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "985d.8235.0ae1",
+                            "address": "60.30.163.1",
+                            "interface": "Management1",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.e944",
+                            "address": "60.30.163.2",
+                            "interface": "Management1",
+                            "age": 209
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.ede8",
+                            "address": "60.30.163.3",
+                            "interface": "Management1",
+                            "age": 251
+                        },
+                        {
+                            "hwAddress": "985d.82c5.1bce",
+                            "address": "60.30.163.4",
+                            "interface": "Management1",
+                            "age": 113
+                        },
+                        {
+                            "hwAddress": "985d.82c4.aeb4",
+                            "address": "60.30.163.14",
+                            "interface": "Management1",
+                            "age": 34
+                        },
+                        {
+                            "hwAddress": "985d.82c4.d994",
+                            "address": "60.30.163.15",
+                            "interface": "Management1",
+                            "age": 233
+                        },
+                        {
+                            "hwAddress": "985d.8235.09b8",
+                            "address": "60.30.163.16",
+                            "interface": "Management1",
+                            "age": 239
+                        },
+                        {
+                            "hwAddress": "985d.8234.c73d",
+                            "address": "60.30.163.30",
+                            "interface": "Management1",
+                            "age": 245
+                        },
+                        {
+                            "hwAddress": "985d.82c5.1db8",
+                            "address": "60.30.163.33",
+                            "interface": "Management1",
+                            "age": 83
+                        },
+                        {
+                            "hwAddress": "fcbd.6778.b0d0",
+                            "address": "60.30.163.34",
+                            "interface": "Management1",
+                            "age": 41
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cc",
+                            "address": "60.30.163.42",
+                            "interface": "Management1",
+                            "age": 10
+                        },
+                        {
+                            "hwAddress": "dc8c.37ec.2676",
+                            "address": "60.30.163.90",
+                            "interface": "Management1",
+                            "age": 233
+                        },
+                        {
+                            "hwAddress": "70b3.176c.d954",
+                            "address": "60.30.163.91",
+                            "interface": "Management1",
+                            "age": 179
+                        },
+                        {
+                            "hwAddress": "70b3.176c.d59a",
+                            "address": "60.30.163.92",
+                            "interface": "Management1",
+                            "age": 149
+                        },
+                        {
+                            "hwAddress": "dc8c.3796.5684",
+                            "address": "60.30.163.93",
+                            "interface": "Management1",
+                            "age": 167
+                        },
+                        {
+                            "hwAddress": "00ee.ab6c.3d6e",
+                            "address": "60.30.163.94",
+                            "interface": "Management1",
+                            "age": 47
+                        },
+                        {
+                            "hwAddress": "00ee.ab6c.41dc",
+                            "address": "60.30.163.95",
+                            "interface": "Management1",
+                            "age": 83
+                        },
+                        {
+                            "hwAddress": "1802.2d30.833f",
+                            "address": "60.30.163.99",
+                            "interface": "Management1",
+                            "age": 107
+                        },
+                        {
+                            "hwAddress": "2c97.b19c.eddf",
+                            "address": "60.30.163.101",
+                            "interface": "Management1",
+                            "age": 239
+                        },
+                        {
+                            "hwAddress": "5254.006b.1bd0",
+                            "address": "60.30.163.112",
+                            "interface": "Management1",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 23,
+                    "staticEntries": 0
+                },
+                "NAT01_VRF": {
+                    "dynamicEntries": 47,
+                    "ipV4Neighbors": [
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.3",
+                            "interface": "Vlan3600, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ef2.4793",
+                            "address": "172.1.247.4",
+                            "interface": "Vlan3600, Ethernet2/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.11",
+                            "interface": "Vlan3601, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e55.eb3b",
+                            "address": "172.1.247.12",
+                            "interface": "Vlan3601, Ethernet4/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.19",
+                            "interface": "Vlan3602, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e83.b644",
+                            "address": "172.1.247.20",
+                            "interface": "Vlan3602, Ethernet5/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.27",
+                            "interface": "Vlan3603, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e75.ede9",
+                            "address": "172.1.247.28",
+                            "interface": "Vlan3603, Ethernet6/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.35",
+                            "interface": "Vlan3604, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3eac.4f38",
+                            "address": "172.1.247.36",
+                            "interface": "Vlan3604, Ethernet7/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.43",
+                            "interface": "Vlan3605, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e98.1d28",
+                            "address": "172.1.247.44",
+                            "interface": "Vlan3605, Ethernet8/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.51",
+                            "interface": "Vlan3606, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e22.f1f3",
+                            "address": "172.1.247.52",
+                            "interface": "Vlan3606, Ethernet9/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.59",
+                            "interface": "Vlan3607, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3efe.08b8",
+                            "address": "172.1.247.60",
+                            "interface": "Vlan3607, Ethernet10/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.67",
+                            "interface": "Vlan3608, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea3.2d1c",
+                            "address": "172.1.247.68",
+                            "interface": "Vlan3608, Ethernet11/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.75",
+                            "interface": "Vlan3609, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e70.1ebb",
+                            "address": "172.1.247.76",
+                            "interface": "Vlan3609, Ethernet12/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.83",
+                            "interface": "Vlan3610, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e50.6e03",
+                            "address": "172.1.247.84",
+                            "interface": "Vlan3610, Ethernet13/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.91",
+                            "interface": "Vlan3611, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3edf.4b84",
+                            "address": "172.1.247.92",
+                            "interface": "Vlan3611, Ethernet14/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.99",
+                            "interface": "Vlan3612, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e17.0ab4",
+                            "address": "172.1.247.100",
+                            "interface": "Vlan3612, Ethernet15/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.107",
+                            "interface": "Vlan3613, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.6430",
+                            "address": "172.1.247.108",
+                            "interface": "Vlan3613, Ethernet16/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.115",
+                            "interface": "Vlan3614, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e8a.7157",
+                            "address": "172.1.247.116",
+                            "interface": "Vlan3614, Ethernet17/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.123",
+                            "interface": "Vlan3615, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e20.2e9c",
+                            "address": "172.1.247.124",
+                            "interface": "Vlan3615, Ethernet18/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.131",
+                            "interface": "Vlan3616, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e4b.194f",
+                            "address": "172.1.247.132",
+                            "interface": "Vlan3616, Ethernet19/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.139",
+                            "interface": "Vlan3617, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ecc.d1cb",
+                            "address": "172.1.247.140",
+                            "interface": "Vlan3617, Ethernet20/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.147",
+                            "interface": "Vlan3618, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3ea9.fd3c",
+                            "address": "172.1.247.148",
+                            "interface": "Vlan3618, Ethernet21/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.155",
+                            "interface": "Vlan3619, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e39.80a9",
+                            "address": "172.1.247.156",
+                            "interface": "Vlan3619, Ethernet22/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e54.c7d4",
+                            "address": "172.1.247.164",
+                            "interface": "Vlan3620, Ethernet23/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.171",
+                            "interface": "Vlan3621, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e82.37b3",
+                            "address": "172.1.247.172",
+                            "interface": "Vlan3621, Ethernet24/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.179",
+                            "interface": "Vlan3622, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e74.527c",
+                            "address": "172.1.247.180",
+                            "interface": "Vlan3622, Ethernet25/2",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fcbd.671e.d9cd",
+                            "address": "172.1.247.187",
+                            "interface": "Vlan3623, Port-Channel2000",
+                            "age": 0
+                        },
+                        {
+                            "hwAddress": "fa16.3e38.d4dc",
+                            "address": "172.1.247.188",
+                            "interface": "Vlan3623, Ethernet26/2",
+                            "age": 0
+                        }
+                    ],
+                    "notLearnedEntries": 0,
+                    "totalEntries": 47,
+                    "staticEntries": 0
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "admin_ip": "60.30.163.41",
+  "hostname": "BNDG-5G-C-PUB-UPF01-LF-01",
+  "bgp": {
+    "ip_bgp": {
+      "routerId": "172.1.243.9",
+      "vrf": "default",
+      "asn": "65103",
+      "peers": [
+        {
+          "neighbor": "172.1.242.32",
+          "peerState": "Established",
+          "asn": "65003"
+        },
+        {
+          "neighbor": "172.1.242.34",
+          "peerState": "Established",
+          "asn": "65003"
+        }
+      ]
+    },
+    "bgp_evpn": {
+      "routerId": "172.1.243.9",
+      "vrf": "default",
+      "asn": "65103",
+      "peers": [
+        {
+          "neighbor": "172.1.243.48",
+          "peerState": "Established",
+          "asn": "65003"
+        },
+        {
+          "neighbor": "172.1.243.47",
+          "peerState": "Established",
+          "asn": "65003"
+        }
+      ]
+    }
+  }
+}

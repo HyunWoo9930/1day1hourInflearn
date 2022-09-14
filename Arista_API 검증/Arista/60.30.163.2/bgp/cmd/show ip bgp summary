@@ -1,0 +1,101 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "vrfs": {
+                "default": {
+                    "routerId": "172.1.245.201",
+                    "peers": {
+                        "172.1.245.1": {
+                            "description": "MEC-Spine#1",
+                            "msgSent": 4411298,
+                            "inMsgQueue": 0,
+                            "prefixReceived": 58,
+                            "upDownTime": 1647846912.0,
+                            "version": 4,
+                            "prefixAccepted": 58,
+                            "msgReceived": 4565012,
+                            "peerState": "Established",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65000"
+                        },
+                        "172.1.245.3": {
+                            "description": "MEC-Spine#2",
+                            "msgSent": 4412236,
+                            "inMsgQueue": 0,
+                            "prefixReceived": 61,
+                            "upDownTime": 1647846912.0,
+                            "version": 4,
+                            "prefixAccepted": 61,
+                            "msgReceived": 4411141,
+                            "peerState": "Established",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65000"
+                        },
+                        "172.1.245.5": {
+                            "msgSent": 0,
+                            "inMsgQueue": 0,
+                            "peerStateIdleReason": "NoInterface",
+                            "prefixReceived": 0,
+                            "upDownTime": 1624952832.0,
+                            "version": 4,
+                            "msgReceived": 0,
+                            "prefixAccepted": 0,
+                            "peerState": "Idle",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65000"
+                        },
+                        "172.1.242.203": {
+                            "description": "SA-Spine#2",
+                            "msgSent": 4360086,
+                            "inMsgQueue": 0,
+                            "prefixReceived": 74,
+                            "upDownTime": 1647846784.0,
+                            "version": 4,
+                            "prefixAccepted": 74,
+                            "msgReceived": 4359759,
+                            "peerState": "Established",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65003"
+                        },
+                        "172.1.245.7": {
+                            "msgSent": 0,
+                            "inMsgQueue": 0,
+                            "peerStateIdleReason": "NoInterface",
+                            "prefixReceived": 0,
+                            "upDownTime": 1624952832.0,
+                            "version": 4,
+                            "msgReceived": 0,
+                            "prefixAccepted": 0,
+                            "peerState": "Idle",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65000"
+                        },
+                        "172.1.242.201": {
+                            "description": "SA-Spine#1",
+                            "msgSent": 3287243,
+                            "inMsgQueue": 0,
+                            "prefixReceived": 72,
+                            "upDownTime": 1647846784.0,
+                            "version": 4,
+                            "prefixAccepted": 72,
+                            "msgReceived": 3285681,
+                            "peerState": "Established",
+                            "outMsgQueue": 0,
+                            "underMaintenance": false,
+                            "asn": "65003"
+                        }
+                    },
+                    "vrf": "default",
+                    "asn": "65001"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "admin_ip": "60.30.163.41",
+  "hostname": "BNDG-5G-C-PUB-UPF01-LF-01",
+  "mlag": {
+    "mlag_detail": {
+      "localInterface": "Vlan4090",
+      "domainId": "MLAG",
+      "peerLink": "Port-Channel2000",
+      "localIntfStatus": "up",
+      "peerLinkStatus": "up",
+      "peerAddress": "172.1.242.169",
+      "configSanity": "consistent",
+      "detail": {
+        "mlagState": "secondary",
+        "peerMlagState": "primary"
+      },
+      "state": "active",
+      "negStatus": "connected"
+    }
+  }
+}

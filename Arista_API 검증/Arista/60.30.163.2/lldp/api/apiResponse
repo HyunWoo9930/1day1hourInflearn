@@ -1,0 +1,128 @@
+[
+    {
+        "tablesInserts": 66,
+        "tablesDeletes": 46,
+        "lldp_neighbors": [
+            {
+                "port": "Ethernet1/1",
+                "neighborDevice": 120,
+                "neighborPort": "Ethernet27/1",
+                "ttl": 120
+            },
+            {
+                "port": "Ethernet2/1",
+                "neighborDevice": 120,
+                "neighborPort": "Ethernet27/1",
+                "ttl": 120
+            },
+            {
+                "port": "Ethernet12/2",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.e841",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet12/3",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.fee7.b810",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet12/4",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.fee7.b811",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet13/1",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.fee7.ad30",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet13/2",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.fee7.ad31",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet13/3",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.f590",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet13/4",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.f591",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet15/3",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.e5a0",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet15/4",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.e5a1",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet16/1",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.e710",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet16/2",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.e711",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet16/3",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.e620",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet16/4",
+                "neighborDevice": 121,
+                "neighborPort": "3cfd.feea.e621",
+                "ttl": 121
+            },
+            {
+                "port": "Ethernet21/1",
+                "neighborDevice": 120,
+                "neighborPort": "Ethernet3/1/1",
+                "ttl": 120
+            },
+            {
+                "port": "Ethernet22/1",
+                "neighborDevice": 120,
+                "neighborPort": "Ethernet3/1/1",
+                "ttl": 120
+            },
+            {
+                "port": "Ethernet25/1",
+                "neighborDevice": 120,
+                "neighborPort": "100GE4/0/0",
+                "ttl": 120
+            },
+            {
+                "port": "Ethernet26/1",
+                "neighborDevice": 120,
+                "neighborPort": "100GE4/0/0",
+                "ttl": 120
+            },
+            {
+                "port": "Management1",
+                "neighborDevice": 120,
+                "neighborPort": "Ethernet17",
+                "ttl": 120
+            }
+        ]
+    }
+]

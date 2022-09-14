@@ -1,0 +1,12 @@
+[
+    {
+        "modelName": "CE8861-4C-EI",
+        "version": "V200R019SPH007",
+        "extensions": [
+            {
+                "name": "CE8861EI-V200R019SPH007.PAT",
+                "state": "Running"
+            }
+        ]
+    }
+]

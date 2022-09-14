@@ -1,0 +1,16 @@
+{
+    "jsonrpc": "2.0",
+    "id": "EapiExplorer-1",
+    "result": [
+        {
+            "portChannels": {
+                "Port-Channel2000": {
+                    "recircFeature": [],
+                    "inactivePorts": {},
+                    "activePorts": {},
+                    "inactiveLag": false
+                }
+            }
+        }
+    ]
+}
