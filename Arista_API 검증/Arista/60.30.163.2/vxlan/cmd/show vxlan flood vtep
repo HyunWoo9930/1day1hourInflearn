@@ -1,9 +1,0 @@
-{
-    "jsonrpc": "2.0",
-    "id": "EapiExplorer-1",
-    "result": [
-        {
-            "floodMap": {}
-        }
-    ]
-}

@@ -1,7 +1,0 @@
-{
-    "admin_ip": "60.30.163.2",
-    "hostname": "BNDG-2F-TB-5G-MEC-PUB-Border-01",
-    "ntp": {
-        "status": "unsynchronised"
-    }
-}
