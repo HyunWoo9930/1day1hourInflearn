@@ -58,25 +58,24 @@ ex) 데이터를 수집하는 방법이 eAPI, gNMI, netconf, cli 여러가지가
 - ### OCP : 개방-폐쇄 원칙 (Open/closed principle)
 
     - 확장에는 열려있으나, 변경에는 닫혀 있어야 한다. --> ex) 자동차를 확장 할수는 있지만, 역할이 변경되지는 않음.
-
     - 다형성을 활용.
-
     - 인터페이스를 구현한 새로운 클래스를 하나 만들어서 새로운 기능을 구현
+    - 사용영역의 변경은 닫혀있다 --> 사용영역은 변경 할 필요가 없이 구현 영역에서 다 변경한다.
 
-      ```
-      public class MemberService {
-      //  private MemberRepository memberRepository = new MemoryMemberRepository();
-      private MemberRepository memberRepository = new JdbcMemberRepository();
-      }
-      ```
+    ```
+    public class MemberService {
+    //  private MemberRepository memberRepository = new MemoryMemberRepository();
+    private MemberRepository memberRepository = new JdbcMemberRepository();
+    }
+    ```
 
-    - 구현 클래스를 직접 선택 해줘야함. - 문제점.
+  - 구현 클래스를 직접 선택 해줘야함. - 문제점.
 
-        - 해결 방안?
+      - 해결 방안?
 
-      객체를 생성하고, 연관관계를 맺어주는 별도의 조립, 설정자가 필요하다.
+    객체를 생성하고, 연관관계를 맺어주는 별도의 조립, 설정자가 필요하다.
 
-      Spring이 해결.
+    Spring이 해결.
 
 - ### LSP : 리스코프 치환 원칙 (Liskov substitution principle)
 
@@ -137,3 +136,46 @@ ex) 데이터를 수집하는 방법이 eAPI, gNMI, netconf, cli 여러가지가
 
         - 하지만 인터페이스를 도입하면 추상화라는 비용이 발생한다.
         - 기능을 확장할 가능성이 없다면, 구체 클래스를 직접 사용하고, 향후 꼭 필요할 때 리팩터링해서 인터페이스를 도입하는 것도 방법이다.
+
+## 제어의 역전 IoC(Inversion of Control)
+
+### OrderServiceImpl은 실행부분. 하지만 어떤 구현 객체들이 실행될지는 전혀 모르고, AppConfig가 모든 제어 흐름에 대한 권한을 가지고 있다.
+
+### framework vs library
+- 프레임워크가 내가 작성한 코드를 제어하고, 대신 실행하면 그것은 프레임워크가 맞다.
+- 반면에 내가 작성한 코드가 직접 제어의 흐름을 담당한다면 그것은 프레임워크가 아니라 라이브러리다.
+
+### 정적인 클래스 의존 관계
+- 클래스가 사용하는 import 코드만 보고 의존관계를 쉽게 판단할 수 있다. 애플리케이션을 실행하지 않아도 알 수 있다.
+
+![](../../../../../var/folders/w7/b20fft590_7cd_nb8x2htbl40000gn/T/TemporaryItems/NSIRD_screencaptureui_FwZ6ga/스크린샷 2022-09-16 오후 11.15.35.png)
+--> OrderServiceImpl은 MemberRepository, DiscountPolicy를 의존하는것을 알수 있다.
+하지만, 어떤 객체가 OrderServiceImpl에 의존되는지 알수가 없다. Fixed or Rate Discount인지를 알수가 없다.
+
+### 동적인 클래스 의존 관계
+- 애플리케이션 실행 시점에 실제 생성된 객체 인스턴스의 참조가 연결괸 의존 관계이다.
+- 객체 다이어그램
+- ![](../../../../../var/folders/w7/b20fft590_7cd_nb8x2htbl40000gn/T/TemporaryItems/NSIRD_screencaptureui_lpf4V8/스크린샷 2022-09-16 오후 11.22.00.png)
+- 애플리케이션 **실행 시점(런타임)** 에 외부에서 실제 구현 객체를 생성하고, 클라이언트에 전달해서 클라이언트와 서버의 실제 의존관계가 연결 되는것을 **의존관계 주입** 이라고 한다.
+- 객체 인스턴스를 생성하고, 그 참조 값을 연결해서 사용한다. - RateDiscountPolicy or FixedDiscountPolicy
+- 의존 관계 주입을 사용하면 정적인 클래스의 의존관계를 변경하지 않고, 동적인 객체 인스턴스 의존관계를 쉽게 변경할수있다.
+  - 정적 클래스 의존 관계의 맵을 전혀 손대지 않고도, 참조 값을 변경할수있음. 
+  - OrderServiceImpl를 전혀 손대지않고, 
+  - DiscountPolicy <-> FixedDiscountPolicy 를 동적인 객체로 바로 변경이 가능하다.
+### IoC 컨테이너, DI 컨테이너
+- AppConfig 처럼 객체를 생성하고 관리하면서 의존 관계를 연결해주는 것을 Ioc 컨테이너 또는 DI 컨테이너라 한다.
+  - 최근에는 주로 DI 컨테이너라고 한다.
+  - 또는 어셈블러, 오브젝트 팩토리 등으로 불리기도 한다.
+
+
+## 스프링 컨테이너
+- ApplicationContext 를 스프링 컨테이너라 한다.
+- @Bean으로 Annotations이 적힌 메서드를 모두 호출해서 스프링 컨테이너에 등록한다. -> 등록된 객체 = 스프링 빈
+- @Bean("name" = "") 으로 이름도 변경 가능. 기본값은 원래 메서드의 이름이다.
+- 스프링 빈은 applicationContext.getBean(스프링 빈 이름, 스프링 빈 타입) 메서드를 사용해서 찾을 수 있다.
+
+- 스프링 컨테이너를 사용하면 어떤 장점이 있을까?
+
+
+
+
