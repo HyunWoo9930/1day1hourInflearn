@@ -238,4 +238,4 @@ ex) 데이터를 수집하는 방법이 eAPI, gNMI, netconf, cli 여러가지가
     - DIP, OCP, 테스트, private 생성자로 부터 자유롭게 싱글톤을 사용할 수 있다.
 
 ![](../../../../../var/folders/w7/b20fft590_7cd_nb8x2htbl40000gn/T/TemporaryItems/NSIRD_screencaptureui_LkSUNI/스크린샷 2022-09-19 오후 12.57.09.png)
-.
+..
